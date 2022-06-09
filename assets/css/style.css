@@ -85,6 +85,36 @@ h2 {
     background-image: url(../images/hero-image-contact.jpg);
 }
 
+/* footer style rules */
+
+footer {
+    height: 100px;
+    width: 100%;
+    background-color: #30302f;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+
+}
+
+footer ul {
+    text-align: center;
+   
+}
+
+footer li {
+    display: inline;
+    font-size: 250%;
+    margin-right: 5%;
+    margin-left: 5%; 
+}
+
+footer i {
+    color: #9cb466;
+    padding-top: 25px;
+}
+
+
 
 
 
