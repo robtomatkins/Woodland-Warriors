@@ -8,14 +8,53 @@
 
 body {
     font-family: roboto, sans-serif;
+    color: #30302f;
 }
+
+/* Heading style rules */
 
 h1 {
     font-family: prompt, sans-serif;
     font-weight: 600;
+    color: #30302f;
+    text-transform: uppercase;
+    letter-spacing: 3px;
 }
 
 h2 {
     font-family: prompt, sans-serif;
     font-weight: 500;
+    color: #30302f;
+    text-transform: uppercase;
 }
+
+/* logo style rules */
+
+#logo {
+    text-align: center;
+    font-size: 250%;
+    letter-spacing: 3px;
+}
+
+/* navigation style rules */
+
+#nav {
+    text-align: center;
+    font-size: 120%;
+    letter-spacing: 3px;
+}
+
+#nav li {
+    display: inline-block
+}
+
+#nav a {
+    text-decoration: none;
+    color: #30302f;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+
+
+
