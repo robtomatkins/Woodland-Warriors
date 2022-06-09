@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300;500;600&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300;500;600&family=Roboto:wght@300;500&display=swap');
 
 * {
     margin: 0;
@@ -41,6 +41,7 @@ h2 {
 #nav {
     text-align: center;
     font-size: 120%;
+    font-weight: 300;
     letter-spacing: 3px;
 }
 
@@ -54,6 +55,37 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 3px;
 }
+
+#nav a:hover {
+    color: #9cb466;
+    font-weight: 500;
+}
+
+/* hero image home */
+
+#hero-image-home {
+    width: 100%;
+    height: 600px;
+    background-image: url(../images/hero-image-home.jpg);
+}
+
+/* hero image about */
+
+#hero-image-about {
+    width: 100%;
+    height: 600px;
+    background-image: url(../images/hero-image-about.jpg);
+}
+
+/* hero image contact */
+
+#hero-image-contact {
+    width: 100%;
+    height: 600px;
+    background-image: url(../images/hero-image-contact.jpg);
+}
+
+
 
 
 
