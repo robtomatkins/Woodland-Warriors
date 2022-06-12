@@ -93,57 +93,83 @@ h2 {
     width: 100%;
 }
 
-/* Walks section on Home page (inner divs) */
-
+/* Walks section on Home page (outer divs) */
 
 #left-walk-top {
-    width: 33%;
-    height: 300px;
+    width: 45%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 260px;
     float: left;
-    background-color: red;
+    background: url(../images/walks-background-1.jpg) center;
+    border-radius: 25px;
 }
 
 #right-walk-top {
-    width: 33%;
-    height: 300px;
+    width: 45%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 260px;
     float: right;
-    background-color: blue;
-}
-
-#center-walk-top {
-    width: 33%;
-    height: 300px;
-    margin: 0 auto;
-    background-color: purple;
+    background: url(../images/walks-background-2.jpg) center;
+    border-radius: 25px;
 }
 
 #left-walk-bottom {
-    width: 50%;
-    height: 300px;
+    width: 45%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 260px;
     float: left;
-    background-color: aqua;
+    background: url(../images/walks-background-3.jpg) center;
+    border-radius: 25px;
 }
 
 #right-walk-bottom {
-    width: 50%;
-    height: 300px;
+    width: 45%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 260px;
     float: right;
-    background-color: green;
+    background: url(../images/walks-background-4.jpg) center;
+    border-radius: 25px;
 }
 
 /* Walks section on home page (inner div contents) */
 
-.walks-content {
+.walks-content h2 {
     text-align: center;
-    padding-top: 10%;
-    padding-bottom: 0;
+    font-family: prompt, sans-serif;
+    font-weight: 500;
+    font-size: 200%;
+    color: white;
+    text-transform: uppercase;
+}
+
+.walks-content h3 {
+    text-align: center;
+    font-family: prompt, sans-serif;
+    font-weight: 300;
+    color: white;
+    text-transform: uppercase;
+}
+
+.walks-content p {
+    text-align: center;
+    color: white;
 }
 
 .walks-content h2:hover {
     color: #9cb466;
 }
-
-
 
 /* footer style rules */
 
@@ -151,9 +177,6 @@ footer {
     height: 100px;
     width: 100%;
     background-color: #30302f;
-    position: fixed;
-    bottom: 0;
-    left: 0;
 
 }
 
