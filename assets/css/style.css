@@ -81,7 +81,7 @@ h2 {
     background: url(../images/hero-image-contact.jpg) center;
 }
 
-/* walks section on Home page */
+/* Walks section on Home page */
 
 #walks-top {
     height: 300px;
@@ -93,37 +93,57 @@ h2 {
     width: 100%;
 }
 
-/* walks section on Home page (inner divs) */
+/* Walks section on Home page (inner divs) */
+
 
 #left-walk-top {
     width: 33%;
+    height: 300px;
     float: left;
+    background-color: red;
 }
 
 #right-walk-top {
     width: 33%;
+    height: 300px;
     float: right;
+    background-color: blue;
 }
 
 #center-walk-top {
     width: 33%;
+    height: 300px;
     margin: 0 auto;
+    background-color: purple;
 }
 
 #left-walk-bottom {
-    width: 33%;
+    width: 50%;
+    height: 300px;
     float: left;
+    background-color: aqua;
 }
 
 #right-walk-bottom {
-    width: 33%;
+    width: 50%;
+    height: 300px;
     float: right;
+    background-color: green;
 }
 
-#center-walk-bottom {
-    width: 33%;
-    margin: 0 auto;
+/* Walks section on home page (inner div contents) */
+
+.walks-content {
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 0;
 }
+
+.walks-content h2:hover {
+    color: #9cb466;
+}
+
+
 
 /* footer style rules */
 
