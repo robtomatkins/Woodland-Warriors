@@ -74,7 +74,7 @@ h2 {
 #hero-image-about {
     width: 100%;
     height: 600px;
-    background-image: url(../images/hero-image-about.jpg);
+    background: url(../images/hero-image-about.jpg) center;
 }
 
 /* hero image contact */
@@ -82,7 +82,7 @@ h2 {
 #hero-image-contact {
     width: 100%;
     height: 600px;
-    background-image: url(../images/hero-image-contact.jpg);
+    background: url(../images/hero-image-contact.jpg) center;
 }
 
 /* footer style rules */
@@ -120,6 +120,8 @@ footer i:hover {
 
 /* Media Queries */
 
+/* Change size and content of hero images when viewport shrinks */
+
 /* For screen sizes from 950px wide and below */
 @media screen and (max-width: 950px) {
     
@@ -127,10 +129,24 @@ footer i:hover {
 
         width: 100%;
         height: 600px;
-        background-image: url(../images/hero-image-home-950px.jpg);
+        background: url(../images/hero-image-home-950px.jpg) center;
     }
 
-        
+    #hero-image-about {
+
+        width: 100%;
+        height: 600px;
+        background: url(../images/hero-image-about-950px.jpg) center;
+    }
+
+    #hero-image-contact  {
+
+        width: 100%;
+        height: 600px;
+        background: url(../images/hero-image-contact-950px.jpg) center;
+
+    }
+
     }
     
 
