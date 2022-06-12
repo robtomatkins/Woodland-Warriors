@@ -408,12 +408,22 @@ h2 {
 /* footer style rules */
 
 footer {
-    height: 100px;
+    height: 200px;
     width: 100%;
     background-color: #30302f;
 
 }
 
+
+footer h2 {
+    color: white;
+    text-align: center;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+}
 footer ul {
     text-align: center;
    
