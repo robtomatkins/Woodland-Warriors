@@ -405,6 +405,14 @@ h2 {
 
 }
 
+#form-container h2 {
+    font-family: prompt, sans-serif;
+    font-weight: 500;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}
+
 /* footer style rules */
 
 footer {
