@@ -218,6 +218,146 @@ h2 {
     font-weight: 500;
 }
 
+/* about section on About page */
+
+#about-top {
+    height: 300px;
+    width: 100%;
+}
+
+#about-bottom {
+    height: 300px;
+    width: 100%;
+}
+
+/* about section on About page (outer divs) */
+
+#left-about-top {
+    width: 45%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 260px;
+    float: left;
+    background: url(../images/walks-background-1.jpg) center;
+    border-radius: 25px;
+}
+
+#right-about-top {
+    width: 45%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 260px;
+    float: right;
+    background: url(../images/walks-background-2.jpg) center;
+    border-radius: 25px;
+}
+
+#left-about-bottom {
+    width: 45%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 260px;
+    float: left;
+    background: url(../images/walks-background-3.jpg) center;
+    border-radius: 25px;
+}
+
+#right-about-bottom {
+    width: 45%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 260px;
+    float: right;
+    background: url(../images/walks-background-4.jpg) center;
+    border-radius: 25px;
+}
+
+
+/* about section on About page (inner div overlay) */
+
+#left-about-top-overlay {
+    width: 85%;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 30px;
+    background: rgba(33, 33, 33, 0.70);
+    border-radius: 25px;
+   
+}
+
+#right-about-top-overlay {
+    width: 85%;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 30px;
+    background: rgba(33, 33, 33, 0.70);
+    border-radius: 25px;
+   
+}
+
+#left-about-bottom-overlay {
+    width: 85%;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 30px;
+    background: rgba(33, 33, 33, 0.70);
+    border-radius: 25px;
+   
+}
+
+#right-about-bottom-overlay {
+    width: 85%;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 30px;
+    background: rgba(33, 33, 33, 0.70);
+    border-radius: 25px;
+   
+}
+
+
+/*about section contents */
+
+.about-content h2 {
+    text-align: center;
+    font-family: prompt, sans-serif;
+    font-weight: 500;
+    font-size: 200%;
+    color: white;
+    text-transform: uppercase;
+}
+
+.about-content h3 {
+    text-align: center;
+    font-family: prompt, sans-serif;
+    font-weight: 300;
+    color: white;
+    text-transform: uppercase;
+}
+
+.about-content p {
+    text-align: center;
+    color: white;
+}
+
+.about-content a {
+    text-decoration: none;
+}
+
+.about-content h2:hover {
+    color: #9cb466;
+    font-weight: 500;
+}
+
+
 /* footer style rules */
 
 footer {
@@ -250,6 +390,7 @@ footer i:hover {
 
 /* Media Queries */
 
+
 /* Change size and content of hero images when viewport shrinks */
 
 /* For screen sizes from 950px wide and below */
@@ -276,6 +417,8 @@ footer i:hover {
         background: url(../images/hero-image-contact-950px.jpg) center;
 
     }
+
+
 
     }
     
