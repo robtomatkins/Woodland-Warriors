@@ -86,11 +86,13 @@ h2 {
 #walks-top {
     height: 300px;
     width: 100%;
+    background-color: #8c8c8c;
 }
 
 #walks-bottom {
     height: 300px;
     width: 100%;
+    background-color: #8c8c8c;
 }
 
 /* Walks section on Home page (outer divs) */
@@ -223,11 +225,13 @@ h2 {
 #about-top {
     height: 300px;
     width: 100%;
+    background-color: #8c8c8c;
 }
 
 #about-bottom {
     height: 300px;
     width: 100%;
+    background-color: #8c8c8c;
 }
 
 /* about section on About page (outer divs) */
