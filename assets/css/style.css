@@ -361,6 +361,20 @@ h2 {
     font-weight: 500;
 }
 
+/* form on Contact page (outer) */
+
+#form-container {
+    width: 50%;
+    height: 580px;
+    margin-left: 25%;
+    margin-right: 25%;
+    background: rgba(33, 33, 33, 0.70);
+    border-radius: 25px;
+    color: white;
+  }
+
+
+
 
 /* footer style rules */
 
