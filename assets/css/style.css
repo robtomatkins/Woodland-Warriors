@@ -209,6 +209,15 @@ h2 {
     color: white;
 }
 
+.walks-content a {
+    text-decoration: none;
+}
+
+.walks-content h2:hover {
+    color: #9cb466;
+    font-weight: 500;
+}
+
 /* footer style rules */
 
 footer {
