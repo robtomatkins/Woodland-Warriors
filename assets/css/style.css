@@ -185,7 +185,6 @@ h2 {
    
 }
 
-
 /*walks section contents */
 
 .walks-content h2 {
@@ -208,10 +207,6 @@ h2 {
 .walks-content p {
     text-align: center;
     color: white;
-}
-
-.walks-content h2:hover {
-    color: #9cb466;
 }
 
 /* footer style rules */
