@@ -61,7 +61,7 @@ h2 {
     font-weight: 500;
 }
 
-/* hero image home */
+/* hero image for Home, About and Contact page */
 
 #hero-image-home {
     width: 100%;
@@ -69,20 +69,60 @@ h2 {
     background: url(../images/hero-image-home.jpg) center;
 }
 
-/* hero image about */
-
 #hero-image-about {
     width: 100%;
     height: 600px;
     background: url(../images/hero-image-about.jpg) center;
 }
 
-/* hero image contact */
-
 #hero-image-contact {
     width: 100%;
     height: 600px;
     background: url(../images/hero-image-contact.jpg) center;
+}
+
+/* walks section on Home page */
+
+#walks-top {
+    height: 300px;
+    width: 100%;
+}
+
+#walks-bottom {
+    height: 300px;
+    width: 100%;
+}
+
+/* walks section on Home page (inner divs) */
+
+#left-walk-top {
+    width: 33%;
+    float: left;
+}
+
+#right-walk-top {
+    width: 33%;
+    float: right;
+}
+
+#center-walk-top {
+    width: 33%;
+    margin: 0 auto;
+}
+
+#left-walk-bottom {
+    width: 33%;
+    float: left;
+}
+
+#right-walk-bottom {
+    width: 33%;
+    float: right;
+}
+
+#center-walk-bottom {
+    width: 33%;
+    margin: 0 auto;
 }
 
 /* footer style rules */
