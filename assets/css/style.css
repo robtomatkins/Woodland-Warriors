@@ -510,6 +510,20 @@ footer i:hover {
     }
 }
 
+
+
 /* Change size of font in text boxes in 'walks' and 'about' section when viewport shrinks */
 
+/* For screen sizes from 320px - 480px wide and below (Mobile Devices) */
+@media screen and (max-width: 480px) {
 
+}
+
+
+
+/* Float Logo left and navigation menu right when viewport shrinks */
+
+/* For screen sizes from 320px - 480px wide and below (Mobile Devices) */
+@media screen and (max-width: 480px) {
+
+}
