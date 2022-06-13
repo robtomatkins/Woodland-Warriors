@@ -83,6 +83,45 @@ h2 {
     background: url(../images/hero-image-signup\(600x1600\).jpg) center no-repeat;
 }
 
+/* hero image text for home, about and sign up page */
+
+.hero-text-container {
+    width: 250px;
+    height: 150px;
+    margin: 0 auto;
+    position: relative;
+    top: 150px;
+    background: rgba(48, 48, 47, 0.70);
+    border-radius: 25px;
+}
+
+.hero-text-container h2  {
+    text-align: left;
+    font-family: prompt, sans-serif;
+    font-weight: 700;
+    font-size: 120%;
+    color: white;
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.hero-text-container h3  {
+    text-align: left;
+    font-family: prompt, sans-serif;
+    font-weight: 300;
+    font-size: 90%;
+    color: white;
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+
+
+
+
+
 /* 'walks' section on Home page */
 
 #walks-top {
