@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300;500;600&family=Roboto:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300;500;600&family=Roboto:wght@100;300;500&display=swap');
 
 * {
     margin: 0;
@@ -347,13 +347,6 @@ h2 {
     text-transform: uppercase;
 }
 
-.about-content h3 {
-    text-align: center;
-    font-family: prompt, sans-serif;
-    font-weight: 300;
-    color: white;
-    text-transform: uppercase;
-}
 
 .about-content p {
     text-align: center;
@@ -372,7 +365,7 @@ h2 {
     font-weight: 500;
 }
 
-/* form on Contact page (outer) */
+/* form on Contact page */
 
 #form-container {
     width: 80%;
@@ -464,21 +457,21 @@ footer i:hover {
     #hero-image-home {
 
         width: 100%;
-        height: ;
+        height: 600px;
         background: ;
     }
 
     #hero-image-about {
 
         width: 100%;
-        height: ;
+        height: 600px;
         background: ;
     }
 
     #hero-image-contact  {
 
         width: 100%;
-        height: ;
+        height: 600px;
         background: ;
 
     }
@@ -490,21 +483,21 @@ footer i:hover {
     #hero-image-home {
 
         width: 100%;
-        height: ;
+        height: 300px;
         background: ;
     }
 
     #hero-image-about {
 
         width: 100%;
-        height: ;
+        height: 300px;
         background: ;
     }
 
     #hero-image-contact  {
 
         width: 100%;
-        height: ;
+        height: 300px;
         background: ;
 
     }
@@ -516,6 +509,26 @@ footer i:hover {
 
 /* For screen sizes from 320px - 480px wide and below (Mobile Devices) */
 @media screen and (max-width: 480px) {
+
+
+    .about-content h2 {
+        text-align: center;
+        font-family: prompt, sans-serif;
+        font-weight: 500;
+        font-size: 100%;
+        color: white;
+        text-transform: uppercase;
+    }
+
+    
+    .about-content p {
+        text-align: center;
+        color: white;
+        font-family: roboto, sans-serif;
+        font-weight: 300px;
+        font-size: 100%;
+        
+    }
 
 }
 
