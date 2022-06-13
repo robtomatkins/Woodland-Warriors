@@ -455,42 +455,59 @@ footer i:hover {
 
 /* Media Queries */
 
-
 /* Change size and content of hero images when viewport shrinks */
 
-/* For screen sizes from 950px wide and below */
-@media screen and (max-width: 950px) {
+/* For screen sizes from 481px - 768px wide and below (iPads and Tablets) */
+@media screen and (max-width: 768px) {
+
     
     #hero-image-home {
 
         width: 100%;
-        height: 600px;
-        background: url(../images/hero-image-home-950px.jpg) center;
+        height: ;
+        background: ;
     }
 
     #hero-image-about {
 
         width: 100%;
-        height: 600px;
-        background: url(../images/hero-image-about-950px.jpg) center;
+        height: ;
+        background: ;
     }
 
     #hero-image-contact  {
 
         width: 100%;
-        height: 600px;
-        background: url(../images/hero-image-contact-950px.jpg) center;
+        height: ;
+        background: ;
 
     }
+}
 
+/* For screen sizes from 320px - 480px wide and below (Mobile Devices) */
+@media screen and (max-width: 480px) {
 
+    #hero-image-home {
+
+        width: 100%;
+        height: ;
+        background: ;
+    }
+
+    #hero-image-about {
+
+        width: 100%;
+        height: ;
+        background: ;
+    }
+
+    #hero-image-contact  {
+
+        width: 100%;
+        height: ;
+        background: ;
 
     }
-    
+}
 
-
-
-
-
-
-
+/* Change size of text boxes in 'walks' and 'about' section when viewport shrinks */
