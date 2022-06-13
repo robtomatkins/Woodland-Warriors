@@ -83,7 +83,7 @@ h2 {
     background: url(../images/hero-image-signup\(600x1600\).jpg) center no-repeat;
 }
 
-/* hero image text for home, about and sign up page */
+/* hero image text for landing page */
 
 .hero-text-container {
     width: 250px;
@@ -118,11 +118,6 @@ h2 {
     padding-left: 10px;
 }
 
-
-
-
-
-
 /* 'walks' section on Home page */
 
 #walks-top {
@@ -143,9 +138,8 @@ h2 {
     width: 45%;
     margin-right: 2.5%;
     margin-left: 2.5%;
-    margin-top: 20px;
-    margin-bottom: 20px;
     height: 260px;
+    margin-top: 10px;
     float: left;
     background: url(../images/walks-background-1.jpg) center;
     border-radius: 25px;
@@ -155,8 +149,7 @@ h2 {
     width: 45%;
     margin-right: 2.5%;
     margin-left: 2.5%;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
     height: 260px;
     float: right;
     background: url(../images/walks-background-2.jpg) center;
@@ -168,7 +161,6 @@ h2 {
     margin-right: 2.5%;
     margin-left: 2.5%;
     margin-top: 20px;
-    margin-bottom: 20px;
     height: 260px;
     float: left;
     background: url(../images/walks-background-3.jpg) center;
@@ -180,7 +172,6 @@ h2 {
     margin-right: 2.5%;
     margin-left: 2.5%;
     margin-top: 20px;
-    margin-bottom: 20px;
     height: 260px;
     float: right;
     background: url(../images/walks-background-4.jpg) center;
@@ -190,41 +181,37 @@ h2 {
 /* 'walks' section on home page (inner div overlay) */
 
 #left-walk-top-overlay {
-    width: 85%;
-    height: 200px;
+    width: 100%;
+    height: 260px;
     margin: 0 auto;
-    margin-top: 30px;
-    background: rgba(33, 33, 33, 0.90);
+    background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
     border: #30302f solid 5px;
 }
 
 #right-walk-top-overlay {
-    width: 85%;
-    height: 200px;
+    width: 100%;
+    height: 260px;
     margin: 0 auto;
-    margin-top: 30px;
-    background: rgba(33, 33, 33, 0.90);
+    background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
     border: #30302f solid 5px;
 }
 
 #left-walk-bottom-overlay {
-    width: 85%;
-    height: 200px;
+    width: 100%;
+    height: 260px;
     margin: 0 auto;
-    margin-top: 30px;
-    background: rgba(33, 33, 33, 0.90);
+    background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
     border: #30302f solid 5px;
 }
 
 #right-walk-bottom-overlay {
-    width: 85%;
-    height: 200px;
+    width: 100%;
+    height: 260px;
     margin: 0 auto;
-    margin-top: 30px;
-    background: rgba(33, 33, 33, 0.90);
+    background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
     border: #30302f solid 5px;
 }
@@ -282,8 +269,7 @@ h2 {
     width: 45%;
     margin-right: 2.5%;
     margin-left: 2.5%;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
     height: 260px;
     float: left;
     background: url(../images/about-background-1.jpg) center;
@@ -294,8 +280,7 @@ h2 {
     width: 45%;
     margin-right: 2.5%;
     margin-left: 2.5%;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
     height: 260px;
     float: right;
     background: url(../images/about-background-2.jpg) center;
@@ -307,7 +292,6 @@ h2 {
     margin-right: 2.5%;
     margin-left: 2.5%;
     margin-top: 20px;
-    margin-bottom: 20px;
     height: 260px;
     float: left;
     background: url(../images/about-background-3.jpg) center;
@@ -319,7 +303,6 @@ h2 {
     margin-right: 2.5%;
     margin-left: 2.5%;
     margin-top: 20px;
-    margin-bottom: 20px;
     height: 260px;
     float: right;
     background: url(../images/about-background-4.jpg) center;
@@ -329,41 +312,37 @@ h2 {
 /* 'about' section on About page (inner div overlay) */
 
 #left-about-top-overlay {
-    width: 85%;
-    height: 200px;
+    width: 100%;
+    height: 260px;
     margin: 0 auto;
-    margin-top: 30px;
-    background: rgba(33, 33, 33, 0.90);
+    background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
     border: #30302f solid 5px;
 }
 
 #right-about-top-overlay {
-    width: 85%;
-    height: 200px;
+    width: 100%;
+    height: 260px;
     margin: 0 auto;
-    margin-top: 30px;
-    background: rgba(33, 33, 33, 0.90);
+    background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
     border: #30302f solid 5px;
 }
 
 #left-about-bottom-overlay {
-    width: 85%;
-    height: 200px;
+    width: 100%;
+    height: 260px;
     margin: 0 auto;
-    margin-top: 30px;
-    background: rgba(33, 33, 33, 0.90);
+    background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
     border: #30302f solid 5px;
 }
 
 #right-about-bottom-overlay {
-    width: 85%;
-    height: 200px;
+    width: 100%;
+    height: 260px;
     margin: 0 auto;
-    margin-top: 30px;
-    background: rgba(33, 33, 33, 0.90);
+    background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
     border: #30302f solid 5px;
 }
