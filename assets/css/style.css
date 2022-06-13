@@ -390,16 +390,15 @@ h2 {
 }
 
 #form-container {
-    width: 80%;
-    height: 560px;
-    margin-left: 10%;
-    margin-right: 10%;
+    width: 90%;
+    height: 400px;
+    margin-left: 5%;
+    margin-right: 5%;
     background: rgba(33, 33, 33, 0.70);
     border-radius: 25px;
     color: white;
     position: relative;
-    top: 20px;
-    bottom: 20px;
+    top: 100px;
     border: #30302f solid 5px;
 }
 
@@ -409,15 +408,11 @@ h2 {
 }
 
 #form input {
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 #form select {
-    margin-top: 20px;
-}
-
-#form textarea {
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 #form-container h2 {
@@ -426,6 +421,14 @@ h2 {
     color: white;
     text-transform: uppercase;
     text-align: center;
+    padding-top: 40px;
+}
+
+#form-container h2:hover {
+    color: #9cb466;
+    font-weight: 700;
+    font-size: 200%;
+    text-transform: uppercase;
 }
 
 /* footer style rules */
