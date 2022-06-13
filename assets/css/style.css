@@ -375,10 +375,10 @@ h2 {
 /* form on Contact page (outer) */
 
 #form-container {
-    width: 50%;
+    width: 80%;
     height: 400px;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
     background: rgba(33, 33, 33, 0.70);
     border-radius: 25px;
     color: white;
@@ -510,4 +510,6 @@ footer i:hover {
     }
 }
 
-/* Change size of text boxes in 'walks' and 'about' section when viewport shrinks */
+/* Change size of font in text boxes in 'walks' and 'about' section when viewport shrinks */
+
+
