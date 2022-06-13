@@ -225,6 +225,8 @@ h2 {
     font-size: 200%;
     color: white;
     text-transform: uppercase;
+    padding-top: 50px;
+
 }
 
 .walks-content h3 {
@@ -356,6 +358,7 @@ h2 {
     font-size: 200%;
     color: white;
     text-transform: uppercase;
+    padding: 20px;
 }
 
 .about-content p {
