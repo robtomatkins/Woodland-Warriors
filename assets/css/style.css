@@ -90,7 +90,8 @@ h2 {
     height: 150px;
     margin: 0 auto;
     position: relative;
-    top: 150px;
+    top: 120px;
+    right: 250px;
     background: rgba(48, 48, 47, 0.70);
     border-radius: 25px;
 }
