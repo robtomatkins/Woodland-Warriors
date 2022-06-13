@@ -138,8 +138,9 @@ h2 {
     width: 45%;
     margin-right: 2.5%;
     margin-left: 2.5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
     height: 260px;
-    margin-top: 10px;
     float: left;
     background: url(../images/walks-background-1.jpg) center;
     border-radius: 25px;
@@ -149,7 +150,8 @@ h2 {
     width: 45%;
     margin-right: 2.5%;
     margin-left: 2.5%;
-    margin-top: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     height: 260px;
     float: right;
     background: url(../images/walks-background-2.jpg) center;
@@ -161,6 +163,7 @@ h2 {
     margin-right: 2.5%;
     margin-left: 2.5%;
     margin-top: 20px;
+    margin-bottom: 20px;
     height: 260px;
     float: left;
     background: url(../images/walks-background-3.jpg) center;
@@ -172,6 +175,7 @@ h2 {
     margin-right: 2.5%;
     margin-left: 2.5%;
     margin-top: 20px;
+    margin-bottom: 20px;
     height: 260px;
     float: right;
     background: url(../images/walks-background-4.jpg) center;
@@ -267,8 +271,9 @@ h2 {
     width: 45%;
     margin-right: 2.5%;
     margin-left: 2.5%;
-    margin-top: 10px;
     height: 260px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     float: left;
     background: url(../images/about-background-1.jpg) center;
     border-radius: 25px;
@@ -278,7 +283,8 @@ h2 {
     width: 45%;
     margin-right: 2.5%;
     margin-left: 2.5%;
-    margin-top: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     height: 260px;
     float: right;
     background: url(../images/about-background-2.jpg) center;
@@ -290,6 +296,7 @@ h2 {
     margin-right: 2.5%;
     margin-left: 2.5%;
     margin-top: 20px;
+    margin-bottom: 20px;
     height: 260px;
     float: left;
     background: url(../images/about-background-3.jpg) center;
@@ -301,6 +308,7 @@ h2 {
     margin-right: 2.5%;
     margin-left: 2.5%;
     margin-top: 20px;
+    margin-bottom: 20px;
     height: 260px;
     float: right;
     background: url(../images/about-background-4.jpg) center;
@@ -723,10 +731,7 @@ footer i:hover {
         padding-top: 10px;
         padding-left: 10px;
     }
-
-
 }
-
 
 /* For screen sizes from 480px wide and below (Mobile Devices) */
 @media screen and (max-width: 480px) {
