@@ -68,19 +68,19 @@ h2 {
 #hero-image-home {
     width: 100%;
     height: 600px;
-    background: url(../images/hero-image-home.jpg) center;
+    background: url(../images/hero-image-home\(600x1600\).jpg) center no-repeat;
 }
 
 #hero-image-about {
     width: 100%;
     height: 600px;
-    background: url(../images/hero-image-about.jpg) center;
+    background: url(../images/hero-image-about\(600x1600\).jpg) center no-repeat;
 }
 
 #hero-image-contact {
     width: 100%;
     height: 600px;
-    background: url(../images/hero-image-contact.jpg) center;
+    background: url(../images/hero-image-signup\(600x1600\).jpg) center no-repeat;
 }
 
 /* 'walks' section on Home page */
@@ -444,58 +444,58 @@ footer i:hover {
 /* Media Queries */
 
 /* Change size and content of hero images when viewport shrinks */
-/* For screen sizes from 481px - 768px wide and below (iPads and Tablets) */
+/* For screen sizes for 768px wide and below (iPads and Tablets) */
 @media screen and (max-width: 768px) {
 
     #hero-image-home {
 
         width: 100%;
         height: 600px;
-        background: ;
+        background: url(../images/hero-image-home\(600x768\).jpg);
     }
 
     #hero-image-about {
 
         width: 100%;
         height: 600px;
-        background: ;
+        background: url(../images/hero-image-about\(600x768\).jpg) ;
     }
 
     #hero-image-contact {
 
         width: 100%;
         height: 600px;
-        background: ;
+        background: url(../images/hero-image-signup\(600x768\).jpg);
     }
 }
 
-/* For screen sizes from 320px - 480px wide and below (Mobile Devices) */
+/* For screen sizes for 480px wide and below (Mobile Devices) */
 @media screen and (max-width: 480px) {
 
     #hero-image-home {
 
         width: 100%;
         height: 300px;
-        background: ;
+        background: url(../images/hero-image-home\(300x480\).jpg) center no-repeat;
     }
 
     #hero-image-about {
 
         width: 100%;
         height: 300px;
-        background: ;
+        background: url(../images/hero-image-about\(300x480\).jpg);
     }
 
     #hero-image-contact {
 
         width: 100%;
         height: 300px;
-        background: ;
+        background: url(../images/hero-image-signup\(300x480\).jpg);
     }
 }
 
 /* Change size of <h2> & <p> in 'about' section text boxes when viewport shrinks */
-/* For screen sizes from 481px - 768px wide and below (iPads and Tablets) */
+/* For screen sizes from 768px wide and below (iPads and Tablets) */
 @media screen and (max-width: 768px) {
 
     .about-content h2 {
@@ -518,7 +518,7 @@ footer i:hover {
     }
 }
 
-/* For screen sizes from 320px - 480px wide and below (Mobile Devices) */
+/* For screen sizes from 480px wide and below (Mobile Devices) */
 @media screen and (max-width: 480px) {
 
 
@@ -542,7 +542,7 @@ footer i:hover {
 }
 
 /* Remove float left and float right for text boxes in 'walks' & 'about' section so boxes sit vertically when view port shrinks */
-/* For screen sizes from 320px - 480px wide and below (Mobile Devices) */
+/* For screen sizes from 480px wide and below (Mobile Devices) */
 @media screen and (max-width: 480px) {
 
     #left-about-top {
@@ -649,7 +649,7 @@ footer i:hover {
 }
 
 /* Change size of header logo and navigation bar when viewport shrinks */
-/* For screen sizes from 320px - 480px wide and below (Mobile Devices) */
+/* For screen sizes from 480px wide and below (Mobile Devices) */
 @media screen and (max-width: 480px) {
 
     #logo {
