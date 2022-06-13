@@ -92,8 +92,9 @@ h2 {
     position: relative;
     top: 120px;
     right: 250px;
-    background: rgba(48, 48, 47, 0.70);
+    background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
+    border: #30302f solid 5px;
 }
 
 .hero-text-container h2  {
@@ -123,13 +124,13 @@ h2 {
 #walks-top {
     height: 300px;
     width: 100%;
-    background-color: #8c8c8c;
+    background-color: #eeeeee;
 }
 
 #walks-bottom {
     height: 300px;
     width: 100%;
-    background-color: #8c8c8c;
+    background-color: #eeeeee;
 }
 
 /* 'walks' section on Home page (outer divs) */
@@ -183,37 +184,33 @@ h2 {
 #left-walk-top-overlay {
     width: 100%;
     height: 260px;
-    margin: 0 auto;
+    float: left;
     background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
-    border: #30302f solid 5px;
 }
 
 #right-walk-top-overlay {
     width: 100%;
     height: 260px;
-    margin: 0 auto;
+    float: right;
     background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
-    border: #30302f solid 5px;
 }
 
 #left-walk-bottom-overlay {
     width: 100%;
     height: 260px;
-    margin: 0 auto;
+    float: left;
     background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
-    border: #30302f solid 5px;
 }
 
 #right-walk-bottom-overlay {
     width: 100%;
     height: 260px;
-    margin: 0 auto;
+    float: right;
     background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
-    border: #30302f solid 5px;
 }
 
 /* 'walks' section, inner div overlay contents */
@@ -256,13 +253,13 @@ h2 {
 #about-top {
     height: 300px;
     width: 100%;
-    background-color: #8c8c8c;
+    background-color: #eeeeee;
 }
 
 #about-bottom {
     height: 300px;
     width: 100%;
-    background-color: #8c8c8c;
+    background-color: #eeeeee;
 }
 
 /* 'about' section on About page (outer divs) */
@@ -316,37 +313,36 @@ h2 {
 #left-about-top-overlay {
     width: 100%;
     height: 260px;
-    margin: 0 auto;
+    float: left;
     background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
-    border: #30302f solid 5px;
 }
 
 #right-about-top-overlay {
     width: 100%;
     height: 260px;
-    margin: 0 auto;
+    float: right;
     background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
-    border: #30302f solid 5px;
+  
 }
 
 #left-about-bottom-overlay {
     width: 100%;
     height: 260px;
-    margin: 0 auto;
+    float: left;
     background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
-    border: #30302f solid 5px;
+   
 }
 
 #right-about-bottom-overlay {
     width: 100%;
     height: 260px;
-    margin: 0 auto;
+    float: right;
     background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
-    border: #30302f solid 5px;
+    
 }
 
 /* 'about' section inner div overlay contents */
@@ -383,7 +379,7 @@ h2 {
 #form-outer {
     height: 600px;
     width: 100%;
-    background-color: #8c8c8c;
+    background-color: #eeeeee;
 }
 
 #form-container {
