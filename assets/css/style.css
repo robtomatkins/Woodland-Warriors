@@ -89,12 +89,11 @@ h2 {
     width: 250px;
     height: 150px;
     margin: 0 auto;
-    position: relative;
-    top: 120px;
-    right: 250px;
     background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
     border: #30302f solid 5px;
+    position: relative;
+    top: 200px;
 }
 
 .hero-text-container h2  {
@@ -686,5 +685,83 @@ footer i:hover {
         color: #30302f
     }
 
+}
+
+/* change position of hero image text box when viewport shrinks */
+/* For screen sizes from 768px wide and below (iPads and Tablets) */
+@media screen and (max-width: 768px) {
+
+    .hero-text-container {
+        width: 250px;
+        height: 150px;
+        margin: 0 auto;
+        background: rgba(33, 33, 33, 0.85);
+        border-radius: 25px;
+        border: #30302f solid 5px;
+        position: relative;
+        top: 200px;
+    }
+    
+    .hero-text-container h2  {
+        text-align: left;
+        font-family: prompt, sans-serif;
+        font-weight: 700;
+        font-size: 120%;
+        color: white;
+        text-transform: uppercase;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+    
+    .hero-text-container h3  {
+        text-align: left;
+        font-family: prompt, sans-serif;
+        font-weight: 300;
+        font-size: 90%;
+        color: white;
+        text-transform: uppercase;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+
+
+}
+
+
+/* For screen sizes from 480px wide and below (Mobile Devices) */
+@media screen and (max-width: 480px) {
+
+    .hero-text-container {
+        width: 250px;
+        height: 150px;
+        margin: 0 auto;
+        background: rgba(33, 33, 33, 0.85);
+        border-radius: 25px;
+        border: #30302f solid 5px;
+        position: relative;
+        top: 60px;
+    }
+    
+    .hero-text-container h2  {
+        text-align: left;
+        font-family: prompt, sans-serif;
+        font-weight: 700;
+        font-size: 120%;
+        color: white;
+        text-transform: uppercase;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+    
+    .hero-text-container h3  {
+        text-align: left;
+        font-family: prompt, sans-serif;
+        font-weight: 300;
+        font-size: 90%;
+        color: white;
+        text-transform: uppercase;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
 
 }
