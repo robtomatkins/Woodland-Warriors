@@ -366,14 +366,15 @@ h2 {
 
 #form-container {
     width: 80%;
-    height: 400px;
+    height: 560px;
     margin-left: 10%;
     margin-right: 10%;
     background: rgba(33, 33, 33, 0.70);
     border-radius: 25px;
     color: white;
     position: relative;
-    top: 100px;
+    top: 20px;
+    bottom: 20px;
     border: #30302f solid 5px;
 }
 
