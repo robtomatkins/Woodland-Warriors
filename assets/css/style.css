@@ -91,7 +91,6 @@ h2 {
     margin: 0 auto;
     background: rgba(33, 33, 33, 0.85);
     border-radius: 25px;
-    border: #30302f solid 5px;
     position: relative;
     top: 200px;
 }
@@ -390,11 +389,11 @@ h2 {
 }
 
 #form-container {
-    width: 90%;
+    width: 80%;
     height: 400px;
-    margin-left: 5%;
-    margin-right: 5%;
-    background: rgba(33, 33, 33, 0.70);
+    margin-left: 10%;
+    margin-right: 10%;
+    background: rgba(156, 180, 102, 1);
     border-radius: 25px;
     color: white;
     position: relative;
@@ -405,6 +404,9 @@ h2 {
 #form {
     padding: 20px;
     text-align: center;
+    color: #30302f;
+    font-family: roboto, sans-serif;
+    font-weight: 500;
 }
 
 #form input {
@@ -417,15 +419,16 @@ h2 {
 
 #form-container h2 {
     font-family: prompt, sans-serif;
-    font-weight: 500;
-    color: white;
+    font-weight: 700;
+    font-size: 180%;
+    color: #30302f;
     text-transform: uppercase;
     text-align: center;
     padding-top: 40px;
 }
 
 #form-container h2:hover {
-    color: #9cb466;
+    color: white;
     font-weight: 700;
     text-transform: uppercase;
 }
