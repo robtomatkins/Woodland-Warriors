@@ -543,6 +543,7 @@ footer i:hover {
     }
 }
 
+/* Change size of <h2> & <p> in 'about' section text boxes when viewport shrinks */
 /* For screen sizes from 480px wide and below (Mobile Devices) */
 @media screen and (max-width: 480px) {
 
@@ -566,7 +567,7 @@ footer i:hover {
     }
 }
 
-/* Remove float left and float right for text boxes in 'walks' & 'about' section so boxes sit vertically when view port shrinks */
+/* Remove float left and float right for text boxes in 'walks' & 'about' section so boxes sit vertically when view port shrinks. */
 /* For screen sizes from 480px wide and below (Mobile Devices) */
 @media screen and (max-width: 480px) {
 
@@ -651,25 +652,25 @@ footer i:hover {
     #about-top {
         height: 600px;
         width: 100%;
-        background-color: #8c8c8c;
+        background-color: #eeeeee;
     }
 
     #about-bottom {
         height: 600px;
         width: 100%;
-        background-color: #8c8c8c;
+        background-color: #eeeeee;
     }
 
     #walks-top {
         height: 600px;
         width: 100%;
-        background-color: #8c8c8c;
+        background-color: #eeeeee;
     }
 
     #walks-bottom {
         height: 600px;
         width: 100%;
-        background-color: #8c8c8c;
+        background-color: #eeeeee;
     }
 }
 
@@ -733,6 +734,7 @@ footer i:hover {
     }
 }
 
+/* change position of hero image text box when viewport shrinks */
 /* For screen sizes from 480px wide and below (Mobile Devices) */
 @media screen and (max-width: 480px) {
 
