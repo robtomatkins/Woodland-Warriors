@@ -83,7 +83,7 @@ h2 {
     background: url(../images/hero-image-contact.jpg) center;
 }
 
-/* Walks section on Home page */
+/* 'walks' section on Home page */
 
 #walks-top {
     height: 300px;
@@ -97,7 +97,7 @@ h2 {
     background-color: #8c8c8c;
 }
 
-/* Walks section on Home page (outer divs) */
+/* 'walks' section on Home page (outer divs) */
 
 #left-walk-top {
     width: 45%;
@@ -147,7 +147,7 @@ h2 {
     border-radius: 25px;
 }
 
-/* Walks section on home page (inner div overlay) */
+/* 'walks' section on home page (inner div overlay) */
 
 #left-walk-top-overlay {
     width: 85%;
@@ -189,7 +189,7 @@ h2 {
     border: #30302f solid 5px;
 }
 
-/*walks section contents */
+/* 'walks' section, inner div overlay contents */
 
 .walks-content h2 {
     text-align: center;
@@ -222,7 +222,7 @@ h2 {
     font-weight: 500;
 }
 
-/* about section on About page */
+/* 'about' section on About page */
 
 #about-top {
     height: 300px;
@@ -236,7 +236,7 @@ h2 {
     background-color: #8c8c8c;
 }
 
-/* about section on About page (outer divs) */
+/* 'about' section on About page (outer divs) */
 
 #left-about-top {
     width: 45%;
@@ -286,7 +286,7 @@ h2 {
     border-radius: 25px;
 }
 
-/* about section on About page (inner div overlay) */
+/* 'about' section on About page (inner div overlay) */
 
 #left-about-top-overlay {
     width: 85%;
@@ -328,7 +328,7 @@ h2 {
     border: #30302f solid 5px;
 }
 
-/*about section contents */
+/* 'about' section inner div overlay contents */
 
 .about-content h2 {
     text-align: center;
@@ -357,6 +357,12 @@ h2 {
 }
 
 /* form on Contact page */
+
+#form-outer {
+    height: 600px;
+    width: 100%;
+    background-color: #8c8c8c;
+}
 
 #form-container {
     width: 80%;
@@ -660,6 +666,6 @@ footer i:hover {
         letter-spacing: 2px;
         color: #30302f
     }
-    
-    
+
+
 }
