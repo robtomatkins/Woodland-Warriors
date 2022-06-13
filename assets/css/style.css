@@ -9,6 +9,7 @@
 body {
     font-family: roboto, sans-serif;
     color: #30302f;
+    font-weight: 100;
 }
 
 /* Heading style rules */
@@ -505,7 +506,7 @@ footer i:hover {
 
 
 
-/* Change size of font in text boxes in 'walks' and 'about' section when viewport shrinks */
+/* Change size of <h2> & <p> in 'walks' & 'about' section text boxes when viewport shrinks */
 
 /* For screen sizes from 320px - 480px wide and below (Mobile Devices) */
 @media screen and (max-width: 480px) {
@@ -525,10 +526,119 @@ footer i:hover {
         text-align: center;
         color: white;
         font-family: roboto, sans-serif;
-        font-weight: 300px;
+        font-weight: 100;
         font-size: 100%;
         
     }
+
+}
+
+/* Remove float left and float right for text boxes in 'walks' & 'about' section so boxes sit vertically when view port shrinks */
+
+/* For screen sizes from 320px - 480px wide and below (Mobile Devices) */
+@media screen and (max-width: 480px) {
+
+#left-about-top {
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 260px;
+    background: url(../images/about-background-1.jpg) center;
+    border-radius: 25px;
+}
+
+#right-about-top {
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    height: 260px;
+    background: url(../images/about-background-2.jpg) center;
+    border-radius: 25px;
+}
+
+#left-about-bottom {
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    height: 260px;
+    background: url(../images/about-background-3.jpg) center;
+    border-radius: 25px;
+}
+
+#right-about-bottom {
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    height: 260px;
+    background: url(../images/about-background-4.jpg) center;
+    border-radius: 25px;
+}
+
+#left-walk-top {
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    height: 260px;
+    float: left;
+    background: url(../images/walks-background-1.jpg) center;
+    border-radius: 25px;
+}
+
+#right-walk-top {
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    height: 260px;
+    float: right;
+    background: url(../images/walks-background-2.jpg) center;
+    border-radius: 25px;
+}
+
+#left-walk-bottom {
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    height: 260px;
+    float: left;
+    background: url(../images/walks-background-3.jpg) center;
+    border-radius: 25px;
+}
+
+#right-walk-bottom {
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    height: 260px;
+    float: right;
+    background: url(../images/walks-background-4.jpg) center;
+    border-radius: 25px;
+}
+
+#about-top {
+    height: 600px;
+    width: 100%;
+    background-color: #8c8c8c;
+}
+
+#about-bottom {
+    height: 600px;
+    width: 100%;
+    background-color: #8c8c8c;
+}
+
+#walks-top {
+    height: 600px;
+    width: 100%;
+    background-color: #8c8c8c;
+}
+
+#walks-bottom {
+    height: 600px;
+    width: 100%;
+    background-color: #8c8c8c;
+}
 
 }
 
