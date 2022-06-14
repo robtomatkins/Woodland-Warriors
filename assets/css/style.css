@@ -393,6 +393,16 @@ h2 {
     background-color: #eeeeee;
 }
 
+#form-outer h2 {
+    font-family: prompt, sans-serif;
+    font-weight: 700;
+    font-size: 180%;
+    color: #30302f;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 20px;
+}
+
 #form-container {
     width: 80%;
     height: 400px;
@@ -402,7 +412,7 @@ h2 {
     border-radius: 25px;
     color: white;
     position: relative;
-    top: 100px;
+    top: 30px;
     border: #30302f solid 5px;
 }
 
@@ -420,16 +430,6 @@ h2 {
 
 #form select {
     margin-top: 30px;
-}
-
-#form-container h2 {
-    font-family: prompt, sans-serif;
-    font-weight: 700;
-    font-size: 180%;
-    color: #30302f;
-    text-transform: uppercase;
-    text-align: center;
-    padding-top: 40px;
 }
 
 #form-container h2:hover {
