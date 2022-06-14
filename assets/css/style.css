@@ -716,7 +716,6 @@ footer i:hover {
         margin: 0 auto;
         background: rgba(33, 33, 33, 0.85);
         border-radius: 25px;
-        border: #30302f solid 5px;
         position: relative;
         top: 200px;
     }
@@ -758,7 +757,6 @@ footer i:hover {
         margin: 0 auto;
         background: rgba(33, 33, 33, 0.85);
         border-radius: 25px;
-        border: #30302f solid 5px;
         position: relative;
         top: 60px;
     }
