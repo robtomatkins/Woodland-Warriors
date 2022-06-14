@@ -68,19 +68,19 @@ h2 {
 #hero-image-home {
     width: 100%;
     height: 600px;
-    background: url(../images/hero-image-home\(600x1600\).jpg) center no-repeat;
+    background: url(../images/hero-image-home\(600x2000\).jpg) center no-repeat;
 }
 
 #hero-image-about {
     width: 100%;
     height: 600px;
-    background: url(../images/hero-image-about\(600x1600\).jpg) center no-repeat;
+    background: url(../images/hero-image-about\(600x2000\).jpg) center no-repeat;
 }
 
 #hero-image-signup {
     width: 100%;
     height: 600px;
-    background: url(../images/hero-image-signup\(600x1600\).jpg) center no-repeat;
+    background: url(../images/hero-image-signup\(600x2000\).jpg) center no-repeat;
 }
 
 /* hero image text for Home, About and Signup page */
@@ -374,6 +374,8 @@ h2 {
     font-family: roboto, sans-serif;
     font-weight: 300;
     font-size: 125%;
+    padding-left: 5px;
+    padding-left: 5px;
 }
 
 .about-content a {
@@ -477,6 +479,37 @@ footer i:hover {
 }
 
 /* Media Queries */
+/* Change size and content of hero images when viewport shrinks */
+/* For screen sizes for 2000x wide and below (desktops) */
+@media screen and (max-width: 2000x) {
+  
+
+    
+}
+
+/* Change size and content of hero images when viewport shrinks */
+/* For screen sizes for 1600px wide and below (Laptops) */
+@media screen and (max-width: 1600px) {
+  
+    #hero-image-home {
+        width: 100%;
+        height: 600px;
+        background: url(../images/hero-image-home\(600x1600\).jpg) center no-repeat;
+    }
+    
+    #hero-image-about {
+        width: 100%;
+        height: 600px;
+        background: url(../images/hero-image-about\(600x1600\).jpg) center no-repeat;
+    }
+    
+    #hero-image-signup {
+        width: 100%;
+        height: 600px;
+        background: url(../images/hero-image-signup\(600x1600\).jpg) center no-repeat;
+    }
+    
+}
 
 /* Change size and content of hero images when viewport shrinks */
 /* For screen sizes for 768px wide and below (iPads and Tablets) */
@@ -486,21 +519,21 @@ footer i:hover {
 
         width: 100%;
         height: 600px;
-        background: url(../images/hero-image-home\(600x768\).jpg);
+        background: url(../images/hero-image-home\(600x768\).jpg) center no-repeat;
     }
 
     #hero-image-about {
 
         width: 100%;
         height: 600px;
-        background: url(../images/hero-image-about\(600x768\).jpg) ;
+        background: url(../images/hero-image-about\(600x768\).jpg) center no-repeat;
     }
 
     #hero-image-signup {
 
         width: 100%;
         height: 600px;
-        background: url(../images/hero-image-signup\(600x768\).jpg);
+        background: url(../images/hero-image-signup\(600x768\).jpg) center no-repeat;
     }
 }
 
