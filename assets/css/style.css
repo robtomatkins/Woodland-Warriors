@@ -83,7 +83,7 @@ h2 {
     background: url(../images/hero-image-signup\(600x1600\).jpg) center no-repeat;
 }
 
-/* hero image text for landing page */
+/* hero image text for Home, About and Signup page */
 
 .hero-text-container {
     width: 250px;
@@ -115,6 +115,11 @@ h2 {
     text-transform: uppercase;
     padding-top: 10px;
     padding-left: 10px;
+}
+
+.hero-text-container > p {
+    color: white;
+    padding: 10px;
 }
 
 /* 'walks' section on Home page */
@@ -736,6 +741,10 @@ footer i:hover {
         text-transform: uppercase;
         padding-top: 10px;
         padding-left: 10px;
+    }
+
+    .hero-text-container > p {
+        color: white;
     }
 }
 
