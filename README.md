@@ -1,5 +1,5 @@
 # Woodland Warriors
-Woodland Warriors is a three page informational site targetting people looking to engage in voluntary litter picking in woodland and park areas, in and around London. The site consists of the [Home]() page, [About]() page and [Signup]() page. 
+Woodland Warriors is a three page informational site targetting people looking to engage in voluntary litter picking in woodland and park areas, in and around London. The site consists of the [Home](https://robtomatkins.github.io/Woodland-Warriors/index.html) page, [About](https://robtomatkins.github.io/Woodland-Warriors/about.html) page and [Signup](https://robtomatkins.github.io/Woodland-Warriors/sign-up.html) page. 
 
 The Woodland Warriors 'Home' page displays information about upcoming walks including the location, time, date and difficulty level. The 'About' page displays information about the organisation, including about the walks, the volunteers themselves, and the organisational mission and values. The 'Signup' page includes a signup form which allows you to enter your contact details and choose the walk you're interested in. 
 <br>
