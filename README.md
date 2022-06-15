@@ -14,11 +14,8 @@ The Woodland Warriors 'Home' page displays information about upcoming walks incl
     - The navigation bar inlcudes Home, About and Signup, all of which are links to corrisponding page.
     - The logo and navigation are the same color and letter spacing for consistency and the same on every page.
     - The navigation links display green when you hover over them to make it clear for user
-<br>
-<br>
-    ![Logo & navigation bar](assets/images/logo%26navigation-screenshot.jpg)
-<br>
-<br>
+    
+    ![Logo Navigation bar](assets/images/logo%26navigation-screenshot.jpg)
 
 - ### The Hero Image (Home, About and Signup)
 
