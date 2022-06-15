@@ -28,13 +28,13 @@ The Woodland Warriors 'Home' page displays information about upcoming walks incl
     - Inside the About and Sign up page her image is a text box containing a qoute from members of Woodland Warrios to give information to viewers"
 
 #### Home Page Hero Image
-![Home page hero image](../Woodland-Warriors/assets/images/hero-image-home-screenshot.jpg)
+![Home page hero image](../assets/images/hero-image-home-screenshot.jpg)
 
 #### About Page Hero Image
-![About page hero image](../Woodland-Warriors/assets/images/hero-image-about-screenshot.jpg)
+![About page hero image](../assets/images/hero-image-about-screenshot.jpg)
 
 #### Signup Page Hero Image
-![Signup page hero image](../Woodland-Warriors/assets/images/hero-image-signup-screenshot.jpg)
+![Signup page hero image](../assets/images/hero-image-signup-screenshot.jpg)
 <br>
 <br>
 
@@ -43,7 +43,7 @@ The Woodland Warriors 'Home' page displays information about upcoming walks incl
     - Each text box header changes colour when hovered over, this matches the about section for consistency running through the site.
     - Each walk location is a link to the signup page. 
 
-![Walks section on home page](../Woodland-Warriors/assets/images/'walks'-section-screenshot.jpg)
+![Walks section on home page](../assets/images/'walks'-section-screenshot.jpg)
 <br>
 <br>
 
@@ -52,14 +52,14 @@ The Woodland Warriors 'Home' page displays information about upcoming walks incl
     - Each text box header changes colour when hovered over, this matches the walks section for consistency running through the site.
     - Each text box header is a link to the signup page. 
 
-![About section on about page](../Woodland-Warriors/assets/images/about-section-screenshot.jpg)
+![About section on about page](../assets/images/about-section-screenshot.jpg)
 <br>
 <br>
 
 - ### The Form section
     - The form section contains a sign up form and is located on the sign up page. The form collects the name and email address of the person wanting to sign up, and also gives the option to choose which walk you are interested in before submitting the form. 
 
-![Signup form on signup page](../Woodland-Warriors/assets/images/signup-form-screenshot.jpg)
+![Signup form on signup page](../assets/images/signup-form-screenshot.jpg)
 <br>
 <br>
 
@@ -68,7 +68,7 @@ The Woodland Warriors 'Home' page displays information about upcoming walks incl
     - The footer also contains icons that are links to corresponding social media platforms.
     - Each icon changes color when hovered over to match the theme of the rest of the website. 
 
-![Contact info in footer section](../Woodland-Warriors/assets/images/footer-screenshot.jpg)
+![Contact info in footer section](../assets/images/footer-screenshot.jpg)
 <br>
 <br>
 
@@ -101,7 +101,7 @@ The Woodland Warriors 'Home' page displays information about upcoming walks incl
         - I have checked the site is accessible by running it through lighthouse in devtools.
 
 
-![Screen shot from lighthouse](../Woodland-Warriors/assets/images/lighthouse-score-screenshot.jpg)
+![Screen shot from lighthouse](../assets/images/lighthouse-score-screenshot.jpg)
 <br>
 <br>
 
