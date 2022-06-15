@@ -1,5 +1,5 @@
 # Woodland Warriors
-Woodland Warriors is a three page informational site targetting people looking to engage in voluntary litter picking in woodland and park areas, in and around London. The site consists of the 'Home' page, 'About' page and 'Signup' page. 
+Woodland Warriors is a three page informational site targetting people looking to engage in voluntary litter picking in woodland and park areas, in and around London. The site consists of the [Home]() page, [About]() page and [Signup]() page. 
 
 The Woodland Warriors 'Home' page displays information about upcoming walks including the location, time, date and difficulty level. The 'About' page displays information about the organisation, including about the walks, the volunteers themselves, and the organisational mission and values. The 'Signup' page includes a signup form which allows you to enter your contact details and choose the walk you're interested in. 
 <br>
@@ -22,8 +22,8 @@ The Woodland Warriors 'Home' page displays information about upcoming walks incl
 
 - ### The Hero Image (Home, About and Signup)
 
-    - Hero image for each page contains clear relevant visual clues as to what the website is about. 
-    - Hero image changes on each page to make clear that you have changed page. 
+    - The hero image for each page contains clear relevant visual clues as to what the website is about. 
+    - The hero image changes on each page to make clear that you have changed page. 
     - Inside the landing page hero image is a text box containing information to make the purpose of the website clear.
     - Inside the About and Sign up page her image is a text box containing a qoute from members of Woodland Warrios to give information to viewers"
 
@@ -65,7 +65,7 @@ The Woodland Warriors 'Home' page displays information about upcoming walks incl
 
 - ### The Footer Section
     - The footer section contains contact information for people interested in joining, including a telephone number and email address. 
-    - The footer also contains icons that are links to corrisponding social media platforms.
+    - The footer also contains icons that are links to corresponding social media platforms.
     - Each icon changes color when hovered over to match the theme of the rest of the website. 
 
 ![Contact info in footer section](../Woodland-Warriors/assets/images/footer-screenshot.jpg)
@@ -109,27 +109,17 @@ The Woodland Warriors 'Home' page displays information about upcoming walks incl
 ## Deployment
 <hr>
 
-- ### HTML
-<br>
-<br>
-
-- ### CSS
-<br>
-<br>
-
-- ### Accessibility
-<br>
-<br>
+- 
 
 ## Credits
 <hr>
 
 - ### Content
-    - The code to make the social media links in the footer was taken from the CI Love Running Project 
+    - The code to make the social media links in the footer was taken from the CI Love Running
 
 
 - ### Media
-    - The images for the hero images and backgrounds for text boxes were taking from Pexels
+    - The images for the hero images and backgrounds for text boxes were taking from [Pexels](https://www.pexels.com/search/web%20developer/)
 <br>
 <br>
 
