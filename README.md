@@ -14,7 +14,7 @@ The Woodland Warriors 'Home' page displays information about upcoming walks incl
     - The navigation bar inlcudes Home, About and Signup, all of which are links to corrisponding page.
     - The logo and navigation are the same color and letter spacing for consistency and the same on every page.
     - The navigation links display green when you hover over them to make it clear for user
-    
+
     ![Logo Navigation bar](assets/images/logo%26navigation-screenshot.jpg)
 
 - ### The Hero Image (Home, About and Signup)
@@ -81,13 +81,13 @@ The Woodland Warriors 'Home' page displays information about upcoming walks incl
 
 - ### Bugs
     - No bugs found
-<br>
-<br>
+    <br>
+    <br>
 
 - ### Unfixed Bugs
     - No unfixed bugs
-<br>
-<br>
+    <br>
+    <br>
 
 - ### Validator Testing
     - HTML
@@ -106,13 +106,18 @@ The Woodland Warriors 'Home' page displays information about upcoming walks incl
 ## Deployment
 <hr>
 
-- 
+- The site was deployed to Github pages. The steps for depoyment were as follows:
+    - I went to the settings tab in in Github Repository, and then to the pages section.
+    - I then selected the main branch from the source drop down menu.
+    - I was then provided with a link to published website. 
+
+    - Live site can be found here - [Woodland-Warriors](https://robtomatkins.github.io/Woodland-Warriors/)
 
 ## Credits
 <hr>
 
 - ### Content
-    - The code to make the social media links in the footer was taken from the CI Love Running
+    - The code to make the social media links in the footer was taken from the CI Love Running Project
 
 
 - ### Media
