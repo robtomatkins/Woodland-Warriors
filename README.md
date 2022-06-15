@@ -39,29 +39,34 @@ The Woodland Warriors 'Home' page displays information about upcoming walks incl
 <br>
 
 - ### The Walks Section (Upper and Lower)
-
+    - The walks section provides information about upcoming walks, including thier location, date, time and difficulty level.
+    - Each text box header changes colour when hovered over, this matches the about section for consistency running through the site.
+    - Each walk location is a link to the signup page. 
 
 ![Walks section on home page](../Woodland-Warriors/assets/images/'walks'-section-screenshot.jpg)
 <br>
 <br>
 
 - ### The About Section (Upper and Lower)
-
+    - The about section provides information about the different aspects of Woodland Warriors, including the walks, the volunteers and the goal and mission of the organisation.
+    - Each text box header changes colour when hovered over, this matches the walks section for consistency running through the site.
+    - Each text box header is a link to the signup page. 
 
 ![About section on about page](../Woodland-Warriors/assets/images/about-section-screenshot.jpg)
 <br>
 <br>
 
-- ### The Signup Form
-
-
+- ### The Form section
+    - The form section contains a sign up form and is located on the sign up page. The form collects the name and email address of the person wanting to sign up, and also gives the option to choose which walk you are interested in before submitting the form. 
 
 ![Signup form on signup page](../Woodland-Warriors/assets/images/signup-form-screenshot.jpg)
 <br>
 <br>
 
-- ### Footer
-
+- ### The Footer Section
+    - The footer section contains contact information for people interested in joining, including a telephone number and email address. 
+    - The footer also contains icons that are links to corrisponding social media platforms.
+    - Each icon changes color when hovered over to match the theme of the rest of the website. 
 
 ![Contact info in footer section](../Woodland-Warriors/assets/images/footer-screenshot.jpg)
 <br>
@@ -70,15 +75,30 @@ The Woodland Warriors 'Home' page displays information about upcoming walks incl
 ## Testing
 <hr>
 
+- I have tested the site to ensure it is fully repsonsive on mobile devices, ipads, laptops and desktops. I used devtools to do this. 
+
+- I have confirmed the form input fields all require entry and the email address field will only accept and email address. 
+
+- I have tested that the website works in Safari, Chrome and Firefox
+
+
 - ### Bugs
+    - No bugs found
 <br>
 <br>
 
 - ### Unfixed Bugs
+    - No unfixed bugs
 <br>
 <br>
 
 - ### Validator Testing
+    - HTML
+        - No errors detected when code input into W3C validator.
+    - CSS 
+        - No errors detected when code input into W3C CSS validator.
+    - Accessibility 
+        - I have checked the site is accessible by running it through lighthouse in devtools.
 
 
 ![Screen shot from lighthouse](../Woodland-Warriors/assets/images/lighthouse-score-screenshot.jpg)
@@ -105,10 +125,11 @@ The Woodland Warriors 'Home' page displays information about upcoming walks incl
 <hr>
 
 - ### Content
-<br>
-<br>
+    - The code to make the social media links in the footer was taken from the CI Love Running Project 
+
 
 - ### Media
+    - The images for the hero images and backgrounds for text boxes were taking from Pexels
 <br>
 <br>
 
