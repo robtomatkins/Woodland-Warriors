@@ -479,15 +479,7 @@ footer i:hover {
     color: #9cb466;
 }
 
-
 /* Media Queries */
-/* Change size and content of hero images when viewport shrinks */
-/* For screen sizes for 2000x wide and below (desktops) */
-@media screen and (max-width: 2000x) {
-  
-
-    
-}
 
 /* Change size and content of hero images when viewport shrinks */
 /* For screen sizes for 1600px wide and below (Laptops) */
