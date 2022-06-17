@@ -429,6 +429,8 @@ h2 {
 
 #form input {
     margin-top: 30px;
+    font-family: prompt, sans-serif;
+    font-weight: 100px;
 }
 
 #form select {
