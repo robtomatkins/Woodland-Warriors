@@ -479,12 +479,6 @@ footer i:hover {
     color: #9cb466;
 }
 
-/* 404 Error Page */
-
-.error-page h2 {
-    font-family: prompt, sans-serif;
-    font-weight: 300;
-}
 
 /* Media Queries */
 /* Change size and content of hero images when viewport shrinks */
