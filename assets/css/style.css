@@ -360,7 +360,7 @@ h2 {
 /* 'about' section inner div overlay contents */
 
 .about-content h2 {
-    text-align: center;
+    text-align: left;
     font-family: prompt, sans-serif;
     font-weight: 500;
     font-size: 200%;
@@ -370,7 +370,7 @@ h2 {
 }
 
 .about-content p {
-    text-align: center;
+    text-align: left;
     color: white;
     font-family: roboto, sans-serif;
     font-weight: 300;
@@ -568,7 +568,7 @@ footer i:hover {
 @media screen and (max-width: 768px) {
 
     .about-content h2 {
-        text-align: center;
+        text-align: left;
         font-family: prompt, sans-serif;
         font-weight: 500;
         font-size: 150%;
@@ -577,7 +577,7 @@ footer i:hover {
     }
 
     .about-content p {
-        text-align: center;
+        text-align: left;
         color: white;
         font-family: roboto, sans-serif;
         font-weight: 100;
@@ -593,7 +593,7 @@ footer i:hover {
 
 
     .about-content h2 {
-        text-align: center;
+        text-align: left;
         font-family: prompt, sans-serif;
         font-weight: 500;
         font-size: 150%;
@@ -602,7 +602,7 @@ footer i:hover {
     }
 
     .about-content p {
-        text-align: center;
+        text-align: left;
         color: white;
         font-family: roboto, sans-serif;
         font-weight: 100;
