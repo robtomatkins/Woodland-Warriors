@@ -490,6 +490,8 @@ footer i:hover {
 }
 
 #error-container {
+    position: absolute;
+    top: 15%;
     width: 70%;
     margin-top: 15%;
     margin-left: 15%;
@@ -523,9 +525,6 @@ footer i:hover {
     color: #30302f;
     text-transform: uppercase;
     color: #fff;
-
-
-
 
 }
 
