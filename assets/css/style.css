@@ -257,29 +257,31 @@ h2 {
     background-color: #eeeeee;
     text-transform: uppercase;
     width: 150px;
-    margin: 0 auto;  
+    margin: 0 auto; 
+    margin-top: 15px; 
 }
 
 .walks-content p {
     text-align: center;
     color: white;
+    text-transform: uppercase;
 }
 
 .walks-content a {
     text-decoration: none;
-    background-color: #30302f;
 }
 
 .walks-content h4:hover {
     text-align: center;
     font-family: prompt, sans-serif;
-    font-weight: 500;
+    font-weight: 600;
     border-radius: 25px;
     color: #9cb466;
     background-color: #eeeeee;
     text-transform: uppercase;
     width: 150px;
-    margin: 0 auto;  
+    margin: 0 auto;
+    margin-top: 15px;  
 }
 
 /* 'about' section on About page */
