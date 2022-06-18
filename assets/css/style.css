@@ -490,44 +490,40 @@ footer i:hover {
 }
 
 #error-container {
-
-    position: absolute;
-    top: 10%;
-    left: 15%;
-    right: 15%;
     width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
     height: 600px;
-    display: flex;
-    justify-content: center;
-    box-shadow: 0 15px 30px rgba(0,0,0,.5);
+    text-align: center;
+    box-shadow: 0 15px 30px rgba(0,0,0,.9);
     background-color:  #9cb466;
     border-radius: 10px;
 
 }
 
 #error-container-content {
-    text-align: center;
-    max-width: 60%;
+    margin: 0 auto;
+    max-width: 80%;
 }
 
 #error-container-content h2 {
-    font-size: 1000%;
+    font-size: 1200%;
     font-family: prompt, sans-serif;
     font-weight: 600;
-    margin-top: 20px;
     letter-spacing: 5px;
+    display: inline-block;
 }
 
 #error-container-content h4 {
-    font-size: 140%;
+    margin-top: 5px;
+    font-size: 180%;
     font-family: prompt, sans-serif;
-    font-weight: 300;
-    background: #fff;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    display: inline-block;
+    font-weight: 500;
+    color: #30302f;
+    text-transform: uppercase;
+    color: #fff;
+
+
 
 
 }
@@ -537,10 +533,10 @@ footer i:hover {
     font-size: 150%;
     font-family: prompt, sans-serif;
     font-weight: 300;
-    color: #30302f;
+    color: #fff;
 }
 
-#content a {
+#error-container-content a {
     margin-top: 30px;
     font-size: 150%;
     font-family: prompt, sans-serif;
@@ -557,8 +553,8 @@ footer i:hover {
     color: #30302f;
 }
 
-#content a:hover {
-    margin-top: 25px;
+#error-container-content a:hover {
+    margin-top: 30px;
     font-size: 150%;
     font-family: prompt, sans-serif;
     font-weight: 500;
