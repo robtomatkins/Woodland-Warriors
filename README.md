@@ -9,7 +9,7 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 <br>
 <br>
 
-[Click to view live site](https://robtomatkins.github.io/Woodland-Warriors/index.html)
+## [View Live Site](https://robtomatkins.github.io/Woodland-Warriors/index.html)
 
 ![Image displaying site repsonsively on range of devices](assets/images/responsivedesignimage.jpg)
 <br>
@@ -50,13 +50,16 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 - ## Technologies 
     - HTML5
     - CSS
-    - Github 
     - Git
-    - Font Awesome 
-    - Google Fonts
-    - Pexels 
+    - Github 
+    - [Font Awesome](https://fontawesome.com/sessions/sign-in) 
+    - [Google Fonts](https://fonts.google.com/)
+    - [Pexels](https://www.pexels.com/) 
+    - [RGBA Color Picker](https://rgbacolorpicker.com/rgba-to-hex)
 - ## Deployment 
 - ## Credits
+    - Content
+    - Media 
 - ## Project Screenshots
 <br>
 <br>
@@ -64,37 +67,60 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 # UX
 
 - ## Overview 
-    - The site has been designed to be visually striking and simple to navigate, with all three pages linked by thier sections and navigation bar which sits at the top of each page. A color scheme of runs consistently throughout
+    - The site has been designed to be visually striking and simple to navigate, with all three pages linked by thier sections and navigation bar which sits at the top of each page. A color scheme of runs consistently throughout.
+<br>
+<br>
 
 - ## Colour Story 
+    - #30302f
+        - Dark Grey for fonts
+<br>
+<br>
+    - #9cb466
+        - Green to tie in with woodland theme
+<br>
+<br>
+    - #eeeeee - off white as less harsh option to full white
+<br>
+<br>
+    - rgba(33, 33, 33)
+        - Converted to rgba from #30302f using [RGBA Color Picker](https://rgbacolorpicker.com/rgba-to-hex) so I could apply as transparent overlay and background
+<br>
+<br>
+    - rgba(156, 180, 102) 
+        - Converted to rgba from #9cb466 using [RGBA Color Picker](https://rgbacolorpicker.com/rgba-to-hex) so I could apply as transparent overlay and background
 
 - ## Fonts
+    - Downloaded from [Google Fonts](https://fonts.google.com/). Roboto (body) and Prompt (headings) were used at various weights throughout site. 
 
 - ## Images
+    - Images were obtained from [Pexels](https://www.pexels.com/).
 
 - ## Hover Attributes 
+    - Hover attributes were a design choice to create interactivty and highlight links or information of importance, such as the links to [Woodland Trust](https://www.woodlandtrust.org.uk/) in the walks section. 
 
 - ## Anchor Links
+    - Anchor Links were used a design choice to asist with navigation on the site and also for the social media and information links.
 <br>
 <br>
 
 # Site Structure
 
-- ## Home Page Contents [(Click to view live home page)](https://robtomatkins.github.io/Woodland-Warriors/index.html)
+- ## Home Page Contents | [View live home page](https://robtomatkins.github.io/Woodland-Warriors/index.html)
     - Logo and navigation bar 
     - Hero image with centered text box to provide context
     - 'walks' section providing information about upcoming walks
     - Footer section with contact details and social media links
     <br>
     <br>
-- ## About Page Contents [(Click to view live about page)](https://robtomatkins.github.io/Woodland-Warriors/about.html)
+- ## About Page Contents | [View live about page](https://robtomatkins.github.io/Woodland-Warriors/about.html)
     - Logo and navigation bar
     - Custom hero image with centered text
     - 'about' section providing information about organisation
     - Footer section with contact details and social media links
     <br>
     <br>
-- ## Signup Page Contents [(Click to view live signup page)](https://robtomatkins.github.io/Woodland-Warriors/sign-up.html)
+- ## Signup Page Contents | [View live signup page](https://robtomatkins.github.io/Woodland-Warriors/sign-up.html)
     - Logo and navigation bar 
     - Cusom hero image 
     - Sign up form
@@ -174,7 +200,7 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 <br>
 
 
-## Deployment
+# Deployment
 <hr>
 
 - The site was deployed to Github pages. The steps for depoyment were as follows:
@@ -184,8 +210,7 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 
     - Live site can be found here - [Woodland-Warriors](https://robtomatkins.github.io/Woodland-Warriors/)
 
-## Credits
-<hr>
+# Credits
 
 - ### Content
     - The code to make the social media links in the footer was taken from the CI Love Running Project
@@ -193,8 +218,27 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 
 - ### Media
     - The images for the hero images and backgrounds for text boxes were taking from [Pexels](https://www.pexels.com/search/web%20developer/)
+        - [Karolina Grabowska](https://www.pexels.com/photo/crop-man-crushing-plastic-bottle-4498091/)
+        - [Stijin Dijkstra](https://www.pexels.com/photo/photo-of-plastics-near-trees-2583836/)
+        - [Leonid Danilov](https://www.pexels.com/photo/landfill-near-trees-2768961/)
+        - [Lara Jameson](https://www.pexels.com/photo/city-park-outdoors-bag-9324307/)
+        - [Lara Jameson](https://www.pexels.com/photo/man-shorts-grass-outdoors-9324332/)
+        - [Inga Seliverstova](https://www.pexels.com/photo/gray-and-green-leaves-3229275/)
+        - [Polina Tankilevitch](https://www.pexels.com/photo/green-and-brown-dried-leaves-on-the-ground-5540157/)
+        - [Dimitry Llin](https://www.pexels.com/photo/colorful-fallen-leaves-on-ground-10344718/)
+        - [Peter Rocl](https://www.pexels.com/photo/brown-leaf-632075/)
+        - [Margerretta](https://www.pexels.com/photo/brown-and-beige-leaves-on-ground-622438/)
+        - [Cottonbro](https://www.pexels.com/photo/man-in-green-jacket-and-brown-pants-walking-on-forest-4828038/)
+        - [Kelly L](https://www.pexels.com/photo/close-up-photo-of-rusty-budweiser-can-2530319/)
+
+- ### Guides and Tutorials
+    - W3cschools.com
+- ### README.md
+    - [Marcin-Kli/MP1](https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md#surface) 
 <br>
 <br>
+
+# Project Screenshots
 
 
 
