@@ -390,29 +390,22 @@ h2 {
 
 /* form on Signup page */
 
-#form-outer {
-    height: 600px;
-    width: 100%;
-    background-color: #eeeeee;
-}
-
 #form-container h2 {
     font-family: prompt, sans-serif;
     font-weight: 700;
     font-size: 180%;
     color: #30302f;
     text-transform: uppercase;
-    text-align: center;
+    text-align: left;
 }
 
 #form-container {
     width: 50%;
     height: 400px;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin: auto;
     position: relative;
-    top: 50px;
-    background: rgba(156, 180, 102, 1);
+    top: 85px;
+    background: rgba(156, 180, 102, 0.6);
     border-radius: 25px;
     border: #30302f solid 3px;
     box-shadow: 0 15px 30px rgba(0,0,0,.9);
