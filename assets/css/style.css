@@ -390,15 +390,6 @@ h2 {
 
 /* form on Signup page */
 
-#form-container h2 {
-    font-family: prompt, sans-serif;
-    font-weight: 700;
-    font-size: 180%;
-    color: #30302f;
-    text-transform: uppercase;
-    text-align: left;
-}
-
 #form-container {
     width: 50%;
     height: 400px;
