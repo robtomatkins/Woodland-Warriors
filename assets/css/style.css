@@ -236,7 +236,7 @@ h2 {
     font-size: 200%;
     color: white;
     text-transform: uppercase;
-    padding-top: 50px;
+    padding-top: 10px;
 
 }
 
@@ -248,6 +248,18 @@ h2 {
     text-transform: uppercase;
 }
 
+.walks-content h4 {
+    text-align: center;
+    font-family: prompt, sans-serif;
+    font-weight: 500;
+    border-radius: 25px;
+    color: #30302f;
+    background-color: #eeeeee;
+    text-transform: uppercase;
+    width: 150px;
+    margin: 0 auto;  
+}
+
 .walks-content p {
     text-align: center;
     color: white;
@@ -255,11 +267,19 @@ h2 {
 
 .walks-content a {
     text-decoration: none;
+    background-color: #30302f;
 }
 
-.walks-content h2:hover {
-    color: #9cb466;
+.walks-content h4:hover {
+    text-align: center;
+    font-family: prompt, sans-serif;
     font-weight: 500;
+    border-radius: 25px;
+    color: #9cb466;
+    background-color: #eeeeee;
+    text-transform: uppercase;
+    width: 150px;
+    margin: 0 auto;  
 }
 
 /* 'about' section on About page */
