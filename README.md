@@ -1,83 +1,154 @@
-# Woodland Warriors
-Woodland Warriors is a three page informational site targetting people looking to engage in voluntary litter picking in woodland and park areas, in and around London. The site consists of the [Home](https://robtomatkins.github.io/Woodland-Warriors/index.html) page, [About](https://robtomatkins.github.io/Woodland-Warriors/about.html) page and [Signup](https://robtomatkins.github.io/Woodland-Warriors/sign-up.html) page. 
-
-The Woodland Warriors 'Home' page displays information about upcoming walks including the location, time, date and difficulty level. The 'About' page displays information about the organisation, including about the walks, the volunteers themselves, and the organisational mission and values. The 'Signup' page includes a signup form which allows you to enter your contact details and choose the walk you're interested in. 
-<br>
-<br>
-
-## Features
+# **WOODLAND WARRIORS**
+## HTML & CSS Portolio Project
 <hr>
+<br>
+Woodland Warriors is a three page, fully respsonsive, informational site for people looking to join organised voluntary litter picking walks, in woodland and park areas around London and Greater London. This site was created as a milestone project - the aim being to create a static front-end site to present useful information to users.
+<br>
+<br>
+The goal of the site is to increase volunteer signups to support Woodland Warriors reach its organisational goals of cleaning up woodland and park areas in London and Greater London. The site does this by providing information about upcoming Woodland Warriors walks, general information about the orgnisation such as the mission and values, and a sign up form for users to register thier interest.
+<br>
+<br>
 
-- ### The Logo & Navigation Bar
+[Click to view live site](https://robtomatkins.github.io/Woodland-Warriors/index.html)
+
+![Image displaying site repsonsively on range of devices](assets/images/responsivedesignimage.jpg)
+<br>
+
+# Table of Contents
+
+- ## UX
+    - Overview
+    - Color Story
+    - Fonts
+    - Images
+    - Hover Attributes 
+    - Anchor Links
+    <br>
+- ## Site Structure 
+    - Home Page Contents
+    - About Page Contents
+    - Signup Page Contents
+    <br>
+- ## Site Features 
+    - The Logo and Navigation Bar
+    - The Hero Image
+    - The 'Walks' Section
+    - The 'About' Section
+    - The Sign Up Form 
+    - The Footer
+    <br>
+- ## Testing
+    - Bugs
+    - Responsive Testing
+        - Web dev tools
+    - Performance Testing
+        - Lighthouse
+    - Validation Testing
+        - W3C HTML & CSS
+    - Brower Testing
+        - tested in firefox, safari and chrome
+- ## Technologies 
+    - HTML5
+    - CSS
+    - Github 
+    - Git
+    - Font Awesome 
+    - Google Fonts
+    - Pexels 
+- ## Deployment 
+- ## Credits
+- ## Project Screenshots
+<br>
+<br>
+
+# UX
+
+- ## Overview 
+    - The site has been designed to be visually striking and simple to navigate, with all three pages linked by thier sections and navigation bar which sits at the top of each page. A color scheme of runs consistently throughout
+
+- ## Colour Story 
+
+- ## Fonts
+
+- ## Images
+
+- ## Hover Attributes 
+
+- ## Anchor Links
+<br>
+<br>
+
+# Site Structure
+
+- ## Home Page Contents [(Click to view live home page)](https://robtomatkins.github.io/Woodland-Warriors/index.html)
+    - Logo and navigation bar 
+    - Hero image with centered text box to provide context
+    - 'walks' section providing information about upcoming walks
+    - Footer section with contact details and social media links
+    <br>
+    <br>
+- ## About Page Contents [(Click to view live about page)](https://robtomatkins.github.io/Woodland-Warriors/about.html)
+    - Logo and navigation bar
+    - Custom hero image with centered text
+    - 'about' section providing information about organisation
+    - Footer section with contact details and social media links
+    <br>
+    <br>
+- ## Signup Page Contents [(Click to view live signup page)](https://robtomatkins.github.io/Woodland-Warriors/sign-up.html)
+    - Logo and navigation bar 
+    - Cusom hero image 
+    - Sign up form
+    - Footer section with contact details and social media links 
+<br>
+<br>
+
+# Site Features
+
+- ## The Logo & Navigation Bar
 
     - The logo featuring the organisation name is featured centrally at the top of the page with the navigation bar directly below.
     - The navigation bar inlcudes Home, About and Signup, all of which are links to corrisponding page.
     - The logo and navigation are the same color and letter spacing for consistency and the same on every page.
-    - The navigation links display green when you hover over them to make it clear for user
-
-    ![Logo Navigation bar](assets/images/logo%26navigation-screenshot.jpg)
-
-- ### The Hero Image (Home, About and Signup)
-
+    - The navigation links display green when you hover over them to make it clear for user.
+    <br>
+    <br>
+- ## The Hero Image 
     - The hero image for each page contains clear relevant visual clues as to what the website is about. 
     - The hero image changes on each page to make clear that you have changed page. 
     - Inside the landing page hero image is a text box containing information to make the purpose of the website clear.
     - Inside the About and Sign up page her image is a text box containing a qoute from members of Woodland Warrios to give information to viewers"
-
-#### Home Page Hero Image
-![Home page hero image](assets/images/hero-image-home-screenshot.jpg)
-
-#### About Page Hero Image
-![About page hero image](assets/images/hero-image-about-screenshot.jpg)
-
-#### Signup Page Hero Image
-![Signup page hero image](assets/images/hero-image-signup-screenshot.jpg)
-<br>
-<br>
-
-- ### The Walks Section (Upper and Lower)
+    <br>
+    <br>
+- ## The Walks Section 
     - The walks section provides information about upcoming walks, including thier location, date, time and difficulty level.
     - Each text box header changes colour when hovered over, this matches the about section for consistency running through the site.
     - Each walk location is a link to the signup page. 
-
-![Walks section on home page](assets/images/'walks'-section-screenshot.jpg)
-<br>
-<br>
-
-- ### The About Section (Upper and Lower)
+    <br>
+    <br>
+- ## The About Section 
     - The about section provides information about the different aspects of Woodland Warriors, including the walks, the volunteers and the goal and mission of the organisation.
     - Each text box header changes colour when hovered over, this matches the walks section for consistency running through the site.
     - Each text box header is a link to the signup page. 
-
-![About section on about page](assets/images/about-section-screenshot.jpg)
-<br>
-<br>
-
-- ### The Form section
+    <br>
+    <br>
+- ## The Form section
     - The form section contains a sign up form and is located on the sign up page. The form collects the name and email address of the person wanting to sign up, and also gives the option to choose which walk you are interested in before submitting the form. 
-
-![Signup form on signup page](assets/images/signup-form-screenshot.jpg)
-<br>
-<br>
-
-- ### The Footer Section
+    <br>
+    <br>
+- ## The Footer Section
     - The footer section contains contact information for people interested in joining, including a telephone number and email address. 
     - The footer also contains icons that are links to corresponding social media platforms.
     - Each icon changes color when hovered over to match the theme of the rest of the website. 
+    <br>
+    <br>
 
-![Contact info in footer section](assets/images/footer-screenshot.jpg)
-<br>
-<br>
-
-## Testing
-<hr>
+# Testing
 
 - I have tested the site to ensure it is fully repsonsive on mobile devices, ipads, laptops and desktops. I used devtools to do this. 
 
 - I have confirmed the form input fields all require entry and the email address field will only accept and email address. 
 
 - I have tested that the website works in Safari, Chrome and Firefox
-
 
 - ### Bugs
     - No bugs found
