@@ -94,6 +94,7 @@ h2 {
     border-radius: 25px;
     position: relative;
     top: 200px;
+    box-shadow: 0 15px 30px rgba(0,0,0,.6);
 }
 
 .hero-text-container h2  {
@@ -149,6 +150,8 @@ h2 {
     float: left;
     background: url(../images/walks-background-1.jpg) center;
     border-radius: 25px;
+    box-shadow: 0 15px 30px rgba(0,0,0,.7);
+
 }
 
 #right-walk-top {
@@ -161,6 +164,7 @@ h2 {
     float: right;
     background: url(../images/walks-background-2.jpg) center;
     border-radius: 25px;
+    box-shadow: 0 15px 30px rgba(0,0,0,.7);
 }
 
 #left-walk-bottom {
@@ -173,6 +177,7 @@ h2 {
     float: left;
     background: url(../images/walks-background-3.jpg) center;
     border-radius: 25px;
+    box-shadow: 0 15px 30px rgba(0,0,0,.7);
 }
 
 #right-walk-bottom {
@@ -185,6 +190,7 @@ h2 {
     float: right;
     background: url(../images/walks-background-4.jpg) center;
     border-radius: 25px;
+    box-shadow: 0 15px 30px rgba(0,0,0,.7);
 }
 
 /* 'walks' section on home page (inner div overlay) */
@@ -282,6 +288,7 @@ h2 {
     float: left;
     background: url(../images/about-background-1.jpg) center;
     border-radius: 25px;
+    box-shadow: 0 15px 30px rgba(0,0,0,.7);
 }
 
 #right-about-top {
@@ -294,6 +301,7 @@ h2 {
     float: right;
     background: url(../images/about-background-2.jpg) center;
     border-radius: 25px;
+    box-shadow: 0 15px 30px rgba(0,0,0,.7);
 }
 
 #left-about-bottom {
@@ -306,6 +314,7 @@ h2 {
     float: left;
     background: url(../images/about-background-3.jpg) center;
     border-radius: 25px;
+    box-shadow: 0 15px 30px rgba(0,0,0,.7);
 }
 
 #right-about-bottom {
@@ -318,6 +327,7 @@ h2 {
     float: right;
     background: url(../images/about-background-4.jpg) center;
     border-radius: 25px;
+    box-shadow: 0 15px 30px rgba(0,0,0,.7);
 }
 
 /* 'about' section on About page (inner div overlay) */
@@ -398,8 +408,7 @@ h2 {
     top: 85px;
     background: rgba(156, 180, 102, 0.6);
     border-radius: 25px;
-    border: #30302f solid 3px;
-    box-shadow: 0 15px 30px rgba(0,0,0,.9);
+    box-shadow: 0 15px 30px rgba(0,0,0,.7);
     text-align: left;
     padding-top: 30px;
     padding-left: 50px;
