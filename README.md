@@ -98,9 +98,9 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 - ## Anchor Links
     - Anchor Links were used a design choice to asist with navigation on the site and also for the social media links and to provide further information in the 'walks' section. 
 <br>
-<br>
 
 #### [Back to table of contents](#a-namesection-8a-table-of-contents)
+<br>
 
 # <a name="section-2"></a> Site Structure 
 
@@ -136,10 +136,11 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     - [RGBA Color Picker](https://rgbacolorpicker.com/rgba-to-hex)
 
 #### [Back to table of contents](#a-namesection-8a-table-of-contents)
+<br>
 
 # <a name="section-3"></a> Site Features
 
-- ## The Logo & Navigation Bar (make into link to screenshots)
+- ## [The Logo & Navigation Bar](#a-namesection-7a-project-screenshots) 
 
     - The logo featuring the organisation name is featured centrally at the top of the page with the navigation bar directly below.
     - The navigation bar inlcudes Home, About and Signup, all of which are links to corrisponding page.
@@ -147,30 +148,30 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     - The navigation links display green when you hover over them to make it clear for user.
     <br>
     <br>
-- ## The Hero Image (make into link to screenshots)
+- ## [The Hero Image](#a-namesection-7a-project-screenshots)
     - The hero image for each page contains clear relevant visual clues as to what the website is about. 
     - The hero image changes on each page to make clear that you have changed page. 
     - Inside the landing page hero image is a text box containing information to make the purpose of the website clear.
     - Inside the About and Sign up page her image is a text box containing a qoute from members of Woodland Warrios to give information to viewers"
     <br>
     <br>
-- ## The Walks Section (make into link to screenshots)
+- ## [The Walks Section](#a-namesection-7a-project-screenshots)
     - The walks section provides information about upcoming walks, including thier location, date, time and difficulty level.
     - Each text box header changes colour when hovered over, this matches the about section for consistency running through the site.
     - Each walk location is a link to the signup page. 
     <br>
     <br>
-- ## The About Section (make into link to screenshots)
+- ## [The About Section](#a-namesection-7a-project-screenshots)
     - The about section provides information about the different aspects of Woodland Warriors, including the walks, the volunteers and the goal and mission of the organisation.
     - Each text box header changes colour when hovered over, this matches the walks section for consistency running through the site.
     - Each text box header is a link to the signup page. 
     <br>
     <br>
-- ## The Form section (make into link to screenshots)
+- ## [The Form section](#a-namesection-7a-project-screenshots)
     - The form section contains a sign up form and is located on the sign up page. The form collects the name and email address of the person wanting to sign up, and also gives the option to choose which walk you are interested in before submitting the form. 
     <br>
     <br>
-- ## The Footer Section (make into link to screenshots)
+- ## [The Footer Section](#a-namesection-7a-project-screenshots)
     - The footer section contains contact information for people interested in joining, including a telephone number and email address. 
     - The footer also contains icons that are links to corresponding social media platforms.
     - Each icon changes color when hovered over to match the theme of the rest of the website. 
@@ -178,6 +179,7 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     <br>
 
 #### [Back to table of contents](#a-namesection-8a-table-of-contents)
+<br>
 
 # <a name="section-4"></a> Testing
 
@@ -217,17 +219,20 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 <br>
 
 #### [Back to table of contents](#a-namesection-8a-table-of-contents)
+<br>
 
 # <a name="section-5"></a> Deployment
 
 - The site was deployed to Github pages. The steps for depoyment were as follows:
     - I went to the settings tab in in Github Repository, and then to the pages section.
     - I then selected the main branch from the source drop down menu.
-    - I was then provided with a link to published website. 
-
+    - I was then provided with a link to published website.
     - Live site can be found here - [Woodland-Warriors](https://robtomatkins.github.io/Woodland-Warriors/)
+<br>
+<br>
 
 #### [Back to table of contents](#a-namesection-8a-table-of-contents)
+<br>
 
 # <a name="section-6"></a> Credits
 
@@ -257,6 +262,7 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 <br>
 
 #### [Back to table of contents](#a-namesection-8a-table-of-contents)
+<br>
 
 # <a name="section-7"></a> Project Screenshots
 
