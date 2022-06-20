@@ -11,7 +11,7 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 ![Image displaying site repsonsively on range of devices](assets/images/responsivedesignimage.jpg)
 <br>
 
-# <a name="section-8"></a> Table of Contents
+# Table of Contents
 
 - [UX](#ux)
     - Overview
@@ -25,14 +25,14 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     - About Page Contents
     - Signup Page Contents
     - Technologies
-- [Site Features](#a-namesection-3a-site-features)
+- [Site Features](#site-features)
     - The Logo and Navigation Bar
     - The Hero Image
     - The 'Walks' Section
     - The 'About' Section
     - The Sign Up Form 
     - The Footer
-- [Testing](#a-namesection-4a-testing)
+- [Testing](#testing)
     - Bugs
     - Responsive Testing
         - Web dev tools
@@ -42,11 +42,11 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
         - W3C HTML & CSS
     - Brower Testing
         - tested in firefox, safari and chrome
-- [Deployment](#a-namesection-5a-deployment)
-- [Credits](#a-namesection-6a-credits)
+- [Deployment](#deployment)
+- [Credits](#credits)
     - Content
     - Media 
-- [Project Screenshots](#a-namesection-7a-project-screenshots)
+- [Project Screenshots](#project-screenshots)
 
 # UX
 
@@ -89,7 +89,7 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     - Anchor Links were used a design choice to asist with navigation on the site and also for the social media links and to provide further information in the 'walks' section. 
 <br>
 
-[Back to table of contents](#a-namesection-8a-table-of-contents)
+[Back to table of contents](#table-of-contents)
 <br>
 
 # Site Structure 
@@ -125,10 +125,10 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     - [Pexels](https://www.pexels.com/) 
     - [RGBA Color Picker](https://rgbacolorpicker.com/rgba-to-hex)
 
-[Back to table of contents](#a-namesection-8a-table-of-contents)
+[Back to table of contents](#table-of-contents)
 <br>
 
-# <a name="section-3"></a> Site Features
+# Site Features
 
 - ## [The Logo & Navigation Bar](#a-namesection-7a-project-screenshots) 
 
@@ -168,10 +168,10 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     <br>
     <br>
 
-[Back to table of contents](#a-namesection-8a-table-of-contents)
+[Back to table of contents](#table-of-contents)
 <br>
 
-# <a name="section-4"></a> Testing
+# Testing
 
 - I have tested the site to ensure it is fully repsonsive on mobile devices, ipads, laptops and desktops. I used devtools to do this. 
 
@@ -208,10 +208,10 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 <br>
 <br>
 
-[Back to table of contents](#a-namesection-8a-table-of-contents)
+[Back to table of contents](#table-of-contents)
 <br>
 
-# <a name="section-5"></a> Deployment
+# Deployment
 
 - The site was deployed to Github pages. The steps for depoyment were as follows:
     - I went to the settings tab in in Github Repository, and then to the pages section.
@@ -221,10 +221,10 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 <br>
 <br>
 
-[Back to table of contents](#a-namesection-8a-table-of-contents)
+[Back to table of contents](#table-of-contents)
 <br>
 
-# <a name="section-6"></a> Credits
+# Credits
 
 - ### Content
     - The code to make the social media links in the footer was taken from the CI Love Running Project
@@ -252,12 +252,12 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 <br>
 <br>
 
-#### [Back to table of contents](#a-namesection-8a-table-of-contents)
+[Back to table of contents](#table-of-contents)
 <br>
 
-# <a name="section-7"></a> Project Screenshots
+# Project Screenshots
 
-[Back to table of contents](#a-namesection-8a-table-of-contents)
+[Back to table of contents](#table-of-contents)
 
 
 
