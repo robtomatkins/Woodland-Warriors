@@ -178,11 +178,11 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 <br>
 <br>
 
-- **### Bugs**
+- ### Bugs
     - No bugs found
     <br>
     <br>
-- **### Validator Testing**
+- ### Validator Testing
     - HTML
         - No errors detected when code input into W3C validator.
     - CSS 
@@ -191,8 +191,8 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
         - I have checked the site is accessible by running it through lighthouse in devtools.
         <br>
         <br>
-- **### Functuality Testing**
-    - Form
+- ### Functuality Testing
+    - Signup Form
         - I have attempted to submit the sign up form without content in each input field to check that the required attribute is funtioning. 
     - Social Media Links
         - I have checked that all links to external sites open in new tab, confirming that the _blank attribute is functioning. 
