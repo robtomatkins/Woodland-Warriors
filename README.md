@@ -6,33 +6,33 @@ Woodland Warriors is a three page, fully respsonsive, informational site for peo
 The goal of the site is to increase volunteer signups to support Woodland Warriors reach its organisational goals of cleaning up woodland and park areas in London and Greater London. The site does this by providing information about upcoming Woodland Warriors walks, general information about the orgnisation such as the mission and values, and a sign up form for users to register thier interest.
 <br>
 
-## [View Live Site](https://robtomatkins.github.io/Woodland-Warriors/index.html)
+### [**View Live Site**](https://robtomatkins.github.io/Woodland-Warriors/index.html)
 
 ![Image displaying site repsonsively on range of devices](assets/images/responsivedesignimage.jpg)
 <br>
 
 # Table of Contents
 
-- [UX](#ux)
+- [**UX**](#ux)
     - Overview
     - Color Story
         - Fonts
         - Images
         - Hover Attributes 
         - Anchor Links
-- [Site Structure](#site-structure)
+- [**Site Structure**](#site-structure)
     - Home Page Contents
     - About Page Contents
     - Signup Page Contents
     - Technologies
-- [Site Features](#site-features)
+- [**Site Features**](#site-features)
     - The Logo and Navigation Bar
     - The Hero Image
     - The 'Walks' Section
     - The 'About' Section
     - The Sign Up Form 
     - The Footer
-- [Testing](#testing)
+- [**Testing**](#testing)
     - Bugs
     - Responsive Testing
         - Web dev tools
@@ -42,11 +42,12 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
         - W3C HTML & CSS
     - Brower Testing
         - tested in firefox, safari and chrome
-- [Deployment](#deployment)
-- [Credits](#credits)
+- [**Deployment**](#deployment)
+- [**Credits**](#credits)
     - Content
     - Media 
-- [Project Screenshots](#project-screenshots)
+- [**Project Screenshots**](#project-screenshots)
+<hr>
 
 # UX
 
@@ -55,60 +56,54 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     <br>
     Design elements run consistently throughout all three pages, such as the hero image (different image but same size), navigation bar, footer and colour scheme. The 'walks' and 'about' section both have the same layout but have different imagery for the text box backgrouds. 
 <br>
-<br>
 
 - ## Colour Story 
-    - #30302f
-        - Dark Grey for fonts
-<br>
-<br>
-    - #9cb466
-        - Green to tie in with woodland theme
-<br>
-<br>
-    - #eeeeee - off white as less harsh option to full white
-<br>
-<br>
+
+    - #30302f (Dark Grey for fonts)
+    - #9cb466 (Green to tie in with woodland theme)
+    - #eeeeee (off white as less harsh option to full white)
     - rgba(33, 33, 33)
-        - Converted to rgba from #30302f using [RGBA Color Picker](https://rgbacolorpicker.com/rgba-to-hex) so I could apply as transparent overlay and background
+        - Converted to rgba from #30302f using RGBA Color Picker so I could apply as transparent overlay and background
+    - rgba(156, 180, 102)
+        - Converted to rgba from #9cb466 using RGBA Color Picker so I could apply as transparent overlay and background
 <br>
-<br>
-    - rgba(156, 180, 102) 
-        - Converted to rgba from #9cb466 using [RGBA Color Picker](https://rgbacolorpicker.com/rgba-to-hex) so I could apply as transparent overlay and background
 
 - ## Fonts
     - Downloaded from [Google Fonts](https://fonts.google.com/). Roboto (body) and Prompt (headings) were used at various weights throughout site. Roboto was used for the body and Prompt for the headings - these fonts were chosen as they visually compliment eachother well. 
+<br>
 
 - ## Images
     - Images were obtained from [Pexels](https://www.pexels.com/).
+<br>
 
 - ## Hover Attributes 
     - Hover attributes were a design choice to create interactivty, and to highlight links or information of importance, such as the links to [Woodland Trust](https://www.woodlandtrust.org.uk/) in the walks section. 
+<br>
 
 - ## Anchor Links
     - Anchor Links were used a design choice to asist with navigation on the site and also for the social media links and to provide further information in the 'walks' section. 
 <br>
 
-[Back to table of contents](#table-of-contents)
-<br>
+[**Back to table of contents**](#table-of-contents)
+<hr>
 
 # Site Structure 
 
-- ## Home Page Contents | [View live home page](https://robtomatkins.github.io/Woodland-Warriors/index.html)
+- ## [Home Page](https://robtomatkins.github.io/Woodland-Warriors/index.html)
     - Logo and navigation bar 
     - Hero image with centered text box to provide context
     - 'walks' section providing information about upcoming walks
     - Footer section with contact details and social media links
     <br>
     <br>
-- ## About Page Contents | [View live about page](https://robtomatkins.github.io/Woodland-Warriors/about.html)
+- ## [About Page](https://robtomatkins.github.io/Woodland-Warriors/about.html)
     - Logo and navigation bar
     - Custom hero image with centered text
     - 'about' section providing information about organisation
     - Footer section with contact details and social media links
     <br>
     <br>
-- ## Signup Page Contents | [View live signup page](https://robtomatkins.github.io/Woodland-Warriors/sign-up.html)
+- ## [Signup Page](https://robtomatkins.github.io/Woodland-Warriors/sign-up.html)
     - Logo and navigation bar 
     - Cusom hero image 
     - Sign up form
@@ -120,13 +115,15 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     - CSS
     - Git
     - Github 
-    - [Font Awesome](https://fontawesome.com/sessions/sign-in) 
-    - [Google Fonts](https://fonts.google.com/)
-    - [Pexels](https://www.pexels.com/) 
-    - [RGBA Color Picker](https://rgbacolorpicker.com/rgba-to-hex)
+    - Font Awesome
+    - Google Fonts
+    - Pexels
+    - RGBA Color Picker
+    <br>
+    <br>
 
-[Back to table of contents](#table-of-contents)
-<br>
+[**Back to table of contents**](#table-of-contents)
+<hr>
 
 # Site Features
 
@@ -168,8 +165,8 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     <br>
     <br>
 
-[Back to table of contents](#table-of-contents)
-<br>
+[**Back to table of contents**](#table-of-contents)
+<hr>
 
 # Testing
 
@@ -178,26 +175,23 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 - I have confirmed the form input fields all require entry and the email address field will only accept and email address. 
 
 - I have tested that the website works in Safari, Chrome and Firefox
+<br>
+<br>
 
-- ### Bugs
+- **### Bugs**
     - No bugs found
     <br>
     <br>
-
-- ### Unfixed Bugs
-    - No unfixed bugs
-    <br>
-    <br>
-
-- ### Validator Testing
+- **### Validator Testing**
     - HTML
         - No errors detected when code input into W3C validator.
     - CSS 
         - No errors detected when code input into W3C CSS validator.
     - Accessibility 
         - I have checked the site is accessible by running it through lighthouse in devtools.
-
-- ### Functuality Testing
+        <br>
+        <br>
+- **### Functuality Testing**
     - Form
         - I have attempted to submit the sign up form without content in each input field to check that the required attribute is funtioning. 
     - Social Media Links
@@ -208,8 +202,8 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 <br>
 <br>
 
-[Back to table of contents](#table-of-contents)
-<br>
+[**Back to table of contents**](#table-of-contents)
+<hr>
 
 # Deployment
 
@@ -217,12 +211,12 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     - I went to the settings tab in in Github Repository, and then to the pages section.
     - I then selected the main branch from the source drop down menu.
     - I was then provided with a link to published website.
-    - Live site can be found here - [Woodland-Warriors](https://robtomatkins.github.io/Woodland-Warriors/)
+    - Live site can be found [here](https://robtomatkins.github.io/Woodland-Warriors/)
 <br>
 <br>
 
-[Back to table of contents](#table-of-contents)
-<br>
+[**Back to table of contents**](#table-of-contents)
+<hr>
 
 # Credits
 
@@ -252,12 +246,37 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 <br>
 <br>
 
-[Back to table of contents](#table-of-contents)
+[**Back to table of contents**](#table-of-contents)
 <br>
 
 # Project Screenshots
 
-[Back to table of contents](#table-of-contents)
+## The Logo & Navigation Bar
+![screenshot of logo and navigation bar](assets/images/logo-nav-screenshot.jpg)
+<br>
+
+## The Hero Image
+![screenshot of hero iage](assets/images/hero-image-screenshot.jpg)
+<br>
+
+## Walks Section
+![screenshot of walks section](assets/images/walk-section-screenshot.jpg)
+<br>
+
+## About Section
+![screen shot of about section](assets/images/about-section-screenshot.jpg)
+<br>
+
+## Signup Form
+![screenshot of sign up form](assets/images/signup-form-screenshot.jpg)
+<br>
+
+## The Footer
+![screenshot of footer with contact details](assets/images/footer-screenshot.jpg)
+<br>
+
+[**Back to table of contents**](#table-of-contents)
+<br>
 
 
 
