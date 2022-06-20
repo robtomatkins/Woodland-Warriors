@@ -1,12 +1,9 @@
 # **WOODLAND WARRIORS**
 ## HTML & CSS Portolio Project
-<hr>
 <br>
 Woodland Warriors is a three page, fully respsonsive, informational site for people looking to join organised voluntary litter picking walks, in woodland and park areas around London and Greater London. This site was created as a milestone project - the aim being to create a static front-end site to present useful information to users.
 <br>
-<br>
 The goal of the site is to increase volunteer signups to support Woodland Warriors reach its organisational goals of cleaning up woodland and park areas in London and Greater London. The site does this by providing information about upcoming Woodland Warriors walks, general information about the orgnisation such as the mission and values, and a sign up form for users to register thier interest.
-<br>
 <br>
 
 ## [View Live Site](https://robtomatkins.github.io/Woodland-Warriors/index.html)
@@ -23,13 +20,11 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     - Images
     - Hover Attributes 
     - Anchor Links
-    <br>
 - ## [Site Structure](#a-namesection-2a-site-structure)
     - Home Page Contents
     - About Page Contents
     - Signup Page Contents
     - Technologies
-    <br>
 - ## [Site Features](#a-namesection-3a-site-features)
     - The Logo and Navigation Bar
     - The Hero Image
@@ -37,7 +32,6 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     - The 'About' Section
     - The Sign Up Form 
     - The Footer
-    <br>
 - ## [Testing](#a-namesection-4a-testing)
     - Bugs
     - Responsive Testing
@@ -48,15 +42,11 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
         - W3C HTML & CSS
     - Brower Testing
         - tested in firefox, safari and chrome
-
 - ## [Deployment](#a-namesection-5a-deployment)
-   
 - ## [Credits](#a-namesection-6a-credits)
     - Content
     - Media 
 - ## [Project Screenshots](#a-namesection-7a-project-screenshots)
-<br>
-<br>
 
 # <a name="section-1"></a> UX
 
