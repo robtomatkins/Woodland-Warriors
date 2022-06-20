@@ -127,7 +127,7 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 
 # Site Features
 
-- ## [The Logo & Navigation Bar](#a-namesection-7a-project-screenshots) 
+- ## [The Logo & Navigation Bar](#project-screenshots) 
 
     - The logo featuring the organisation name is featured centrally at the top of the page with the navigation bar directly below.
     - The navigation bar inlcudes Home, About and Signup, all of which are links to corrisponding page.
@@ -135,30 +135,30 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     - The navigation links display green when you hover over them to make it clear for user.
     <br>
     <br>
-- ## [The Hero Image](#a-namesection-7a-project-screenshots)
+- ## [The Hero Image](#project-screenshots) 
     - The hero image for each page contains clear relevant visual clues as to what the website is about. 
     - The hero image changes on each page to make clear that you have changed page. 
     - Inside the landing page hero image is a text box containing information to make the purpose of the website clear.
     - Inside the About and Sign up page her image is a text box containing a qoute from members of Woodland Warrios to give information to viewers"
     <br>
     <br>
-- ## [The Walks Section](#a-namesection-7a-project-screenshots)
+- ## [The Walks Section](#project-screenshots) 
     - The walks section provides information about upcoming walks, including thier location, date, time and difficulty level.
     - Each text box header changes colour when hovered over, this matches the about section for consistency running through the site.
     - Each walk location is a link to the signup page. 
     <br>
     <br>
-- ## [The About Section](#a-namesection-7a-project-screenshots)
+- ## [The About Section](#project-screenshots) 
     - The about section provides information about the different aspects of Woodland Warriors, including the walks, the volunteers and the goal and mission of the organisation.
     - Each text box header changes colour when hovered over, this matches the walks section for consistency running through the site.
     - Each text box header is a link to the signup page. 
     <br>
     <br>
-- ## [The Form section](#a-namesection-7a-project-screenshots)
+- ## [The Form section](#project-screenshots) 
     - The form section contains a sign up form and is located on the sign up page. The form collects the name and email address of the person wanting to sign up, and also gives the option to choose which walk you are interested in before submitting the form. 
     <br>
     <br>
-- ## [The Footer Section](#a-namesection-7a-project-screenshots)
+- ## [The Footer Section](#project-screenshots) 
     - The footer section contains contact information for people interested in joining, including a telephone number and email address. 
     - The footer also contains icons that are links to corresponding social media platforms.
     - Each icon changes color when hovered over to match the theme of the rest of the website. 
@@ -251,27 +251,27 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 
 # Project Screenshots
 
-## The Logo & Navigation Bar
+- **The Logo & Navigation Bar**
 ![screenshot of logo and navigation bar](assets/images/logo-nav-screenshot.jpg)
 <br>
 
-## The Hero Image
+- **The Hero Image**
 ![screenshot of hero iage](assets/images/hero-image-screenshot.jpg)
 <br>
 
-## Walks Section
+- **Walks Section**
 ![screenshot of walks section](assets/images/walk-section-screenshot.jpg)
 <br>
 
-## About Section
+- **About Section**
 ![screen shot of about section](assets/images/about-section-screenshot.jpg)
 <br>
 
-## Signup Form
+- **Signup Form**
 ![screenshot of sign up form](assets/images/signup-form-screenshot.jpg)
 <br>
 
-## The Footer
+- **The Footer**
 ![screenshot of footer with contact details](assets/images/footer-screenshot.jpg)
 <br>
 
