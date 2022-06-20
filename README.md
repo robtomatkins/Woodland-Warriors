@@ -13,14 +13,14 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 
 # <a name="section-8"></a> Table of Contents
 
-- [UX](#a-namesection-1a-ux)
+- [UX](#ux)
     - Overview
     - Color Story
         - Fonts
         - Images
         - Hover Attributes 
         - Anchor Links
-- [Site Structure](#a-namesection-2a-site-structure)
+- [Site Structure](#site-structure)
     - Home Page Contents
     - About Page Contents
     - Signup Page Contents
@@ -48,7 +48,7 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     - Media 
 - [Project Screenshots](#a-namesection-7a-project-screenshots)
 
-# <a name="section-1"></a> UX
+# UX
 
 - ## Overview 
     - The site has been designed to be visually striking and simple to navigate, with all three pages linked via anchor links in thier sections, and the navigation bar which sits at the top of each page.
@@ -92,7 +92,7 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 [Back to table of contents](#a-namesection-8a-table-of-contents)
 <br>
 
-# <a name="section-2"></a> Site Structure 
+# Site Structure 
 
 - ## Home Page Contents | [View live home page](https://robtomatkins.github.io/Woodland-Warriors/index.html)
     - Logo and navigation bar 
