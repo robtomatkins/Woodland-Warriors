@@ -194,6 +194,12 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     - Accessibility 
         - I have checked the site is accessible by running it through lighthouse in devtools.
 
+- ### Functuality Testing
+    - Form
+        - I have attempted to submit the sign up form without content in each input field to check that the required attribute is funtioning. 
+    - Social Media Links
+        - I have checked that all links to external sites open in new tab, confirming that the _blank attribute is functioning. 
+
 
 ![Screen shot from lighthouse](assets/images/lighthouse-score-screenshot.jpg)
 <br>
@@ -218,18 +224,19 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 
 - ### Media
     - The images for the hero images and backgrounds for text boxes were taking from [Pexels](https://www.pexels.com/search/web%20developer/)
-        - [Karolina Grabowska](https://www.pexels.com/photo/crop-man-crushing-plastic-bottle-4498091/)
-        - [Stijin Dijkstra](https://www.pexels.com/photo/photo-of-plastics-near-trees-2583836/)
-        - [Leonid Danilov](https://www.pexels.com/photo/landfill-near-trees-2768961/)
-        - [Lara Jameson](https://www.pexels.com/photo/city-park-outdoors-bag-9324307/)
-        - [Lara Jameson](https://www.pexels.com/photo/man-shorts-grass-outdoors-9324332/)
-        - [Inga Seliverstova](https://www.pexels.com/photo/gray-and-green-leaves-3229275/)
-        - [Polina Tankilevitch](https://www.pexels.com/photo/green-and-brown-dried-leaves-on-the-ground-5540157/)
-        - [Dimitry Llin](https://www.pexels.com/photo/colorful-fallen-leaves-on-ground-10344718/)
-        - [Peter Rocl](https://www.pexels.com/photo/brown-leaf-632075/)
-        - [Margerretta](https://www.pexels.com/photo/brown-and-beige-leaves-on-ground-622438/)
-        - [Cottonbro](https://www.pexels.com/photo/man-in-green-jacket-and-brown-pants-walking-on-forest-4828038/)
-        - [Kelly L](https://www.pexels.com/photo/close-up-photo-of-rusty-budweiser-can-2530319/)
+        - [Lara Jameson - 'hero-image-home.jpg'](https://www.pexels.com/photo/city-park-outdoors-bag-9324307/)
+        - [Lara Jameson - 'hero-image-about.jpg'](https://www.pexels.com/photo/man-shorts-grass-outdoors-9324332/)
+        - [Cottonbro - 'hero-image-signup.jpg'](https://www.pexels.com/photo/)
+        - [Peter Rock - 'walks-background-1.jpg'](https://www.pexels.com/photo/brown-leaf-632075/)
+        - [Margerretta - 'walks-background-2.jpg](https://www.pexels.com/photo/brown-and-beige-leaves-on-ground-622438/)
+        man-in-green-jacket-and-brown-pants-walking-on-forest-4828038/)
+        - [Dimitry Llin - 'walks-background-3.jpg'](https://www.pexels.com/photo/)
+        - [Inga Seliverstova - 'walks-background-4.jpg'](https://www.pexels.com/photo/gray-and-green-leaves-3229275/)
+        crop-man-crushing-plastic-bottle-4498091/)
+        - [Karolina Grabowska - 'about-background-1.jpg'](https://www.pexels.com/photo/)
+        - [Kelly L - about-background-2'](https://www.pexels.com/photo/close-up-photo-of-rusty-budweiser-can-2530319/)
+        - [Stijin Dijkstra - 'about-background-3.jpg'](https://www.pexels.com/photo/photo-of-plastics-near-trees-2583836/)
+        - [Leonid Danilov - 'about-background-4.jpg'](https://www.pexels.com/photo/landfill-near-trees-2768961/)
 
 - ### Guides and Tutorials
     - W3cschools.com
