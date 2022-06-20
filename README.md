@@ -13,26 +13,26 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 
 # <a name="section-8"></a> Table of Contents
 
-- ## [UX](#a-namesection-1a-ux)
+- [UX](#a-namesection-1a-ux)
     - Overview
     - Color Story
-    - Fonts
-    - Images
-    - Hover Attributes 
-    - Anchor Links
-- ## [Site Structure](#a-namesection-2a-site-structure)
+        - Fonts
+        - Images
+        - Hover Attributes 
+        - Anchor Links
+- [Site Structure](#a-namesection-2a-site-structure)
     - Home Page Contents
     - About Page Contents
     - Signup Page Contents
     - Technologies
-- ## [Site Features](#a-namesection-3a-site-features)
+- [Site Features](#a-namesection-3a-site-features)
     - The Logo and Navigation Bar
     - The Hero Image
     - The 'Walks' Section
     - The 'About' Section
     - The Sign Up Form 
     - The Footer
-- ## [Testing](#a-namesection-4a-testing)
+- [Testing](#a-namesection-4a-testing)
     - Bugs
     - Responsive Testing
         - Web dev tools
@@ -42,11 +42,11 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
         - W3C HTML & CSS
     - Brower Testing
         - tested in firefox, safari and chrome
-- ## [Deployment](#a-namesection-5a-deployment)
-- ## [Credits](#a-namesection-6a-credits)
+- [Deployment](#a-namesection-5a-deployment)
+- [Credits](#a-namesection-6a-credits)
     - Content
     - Media 
-- ## [Project Screenshots](#a-namesection-7a-project-screenshots)
+- [Project Screenshots](#a-namesection-7a-project-screenshots)
 
 # <a name="section-1"></a> UX
 
@@ -89,7 +89,7 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     - Anchor Links were used a design choice to asist with navigation on the site and also for the social media links and to provide further information in the 'walks' section. 
 <br>
 
-#### [Back to table of contents](#a-namesection-8a-table-of-contents)
+[Back to table of contents](#a-namesection-8a-table-of-contents)
 <br>
 
 # <a name="section-2"></a> Site Structure 
@@ -125,7 +125,7 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     - [Pexels](https://www.pexels.com/) 
     - [RGBA Color Picker](https://rgbacolorpicker.com/rgba-to-hex)
 
-#### [Back to table of contents](#a-namesection-8a-table-of-contents)
+[Back to table of contents](#a-namesection-8a-table-of-contents)
 <br>
 
 # <a name="section-3"></a> Site Features
@@ -168,7 +168,7 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
     <br>
     <br>
 
-#### [Back to table of contents](#a-namesection-8a-table-of-contents)
+[Back to table of contents](#a-namesection-8a-table-of-contents)
 <br>
 
 # <a name="section-4"></a> Testing
@@ -208,7 +208,7 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 <br>
 <br>
 
-#### [Back to table of contents](#a-namesection-8a-table-of-contents)
+[Back to table of contents](#a-namesection-8a-table-of-contents)
 <br>
 
 # <a name="section-5"></a> Deployment
@@ -221,28 +221,29 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 <br>
 <br>
 
-#### [Back to table of contents](#a-namesection-8a-table-of-contents)
+[Back to table of contents](#a-namesection-8a-table-of-contents)
 <br>
 
 # <a name="section-6"></a> Credits
 
 - ### Content
     - The code to make the social media links in the footer was taken from the CI Love Running Project
+    - The template used on github is the CI full template
 
 
 - ### Media
     - The images for the hero images and backgrounds for text boxes were taking from [Pexels](https://www.pexels.com/search/web%20developer/)
-        - [Lara Jameson - 'hero-image-home.jpg'](https://www.pexels.com/photo/city-park-outdoors-bag-9324307/)
-        - [Lara Jameson - 'hero-image-about.jpg'](https://www.pexels.com/photo/man-shorts-grass-outdoors-9324332/)
-        - [Cottonbro - 'hero-image-signup.jpg'](https://www.pexels.com/photo/man-in-green-jacket-and-brown-pants-walking-on-forest-4828038/)
-        - [Peter Rock - 'walks-background-1.jpg'](https://www.pexels.com/photo/brown-leaf-632075/)
-        - [Margerretta - 'walks-background-2.jpg](https://www.pexels.com/photo/brown-and-beige-leaves-on-ground-622438/)
-        - [Dimitry Llin - 'walks-background-3.jpg'](https://www.pexels.com/photo/colorful-fallen-leaves-on-ground-10344718/)
-        - [Inga Seliverstova - 'walks-background-4.jpg'](https://www.pexels.com/photo/gray-and-green-leaves-3229275/)
-        - [Karolina Grabowska - 'about-background-1.jpg'](https://www.pexels.com/photo/rop-man-crushing-plastic-bottle-4498091/)
-        - [Kelly L - about-background-2.jpg'](https://www.pexels.com/photo/close-up-photo-of-rusty-budweiser-can-2530319/)
-        - [Stijin Dijkstra - 'about-background-3.jpg'](https://www.pexels.com/photo/photo-of-plastics-near-trees-2583836/)
-        - [Leonid Danilov - 'about-background-4.jpg'](https://www.pexels.com/photo/landfill-near-trees-2768961/)
+        - Lara Jameson - 'hero-image-home.jpg'
+        - Lara Jameson - 'hero-image-about.jpg'
+        - Cottonbro - 'hero-image-signup.jpg'
+        - Peter Rock - 'walks-background-1.jpg']
+        - Margerretta - 'walks-background-2.jpg]
+        - Dimitry Llin - 'walks-background-3.jpg']
+        - Inga Seliverstova - 'walks-background-4.jpg']
+        - Karolina Grabowska - 'about-background-1.jpg']
+        - Kelly L - about-background-2.jpg']
+        - Stijin Dijkstra - 'about-background-3.jpg']
+        - Leonid Danilov - 'about-background-4.jpg']
 
 - ### Guides and Tutorials
     - [W3schools.com](https://www.w3schools.com/howto/default.asp) for design guides and tutorials
@@ -256,7 +257,7 @@ The goal of the site is to increase volunteer signups to support Woodland Warrio
 
 # <a name="section-7"></a> Project Screenshots
 
-#### [Back to table of contents](#a-namesection-8a-table-of-contents)
+[Back to table of contents](#a-namesection-8a-table-of-contents)
 
 
 
